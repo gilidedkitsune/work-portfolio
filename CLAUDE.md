@@ -13,7 +13,7 @@ technology brands tell their story to developers, engineering managers, and
 executives.
 
 - Based in Fredericksburg, VA. Remote-only.
-- MA in Writing, University of Warwick. BA in English & Spanish, University of Vermont (cum laude).
+- MA in Creative Writing, University of Warwick. BA in English & Spanish, University of Vermont (cum laude).
 - Portfolio: taylorbornstein.com | linkedin.com/in/taylorscribnerspear
 
 ---
@@ -123,8 +123,8 @@ role that misses the seven criteria because it's the one they happen to be worki
   GEO/AEO content strategy against the gaps: grew own-domain citations from 786 to
   1,809 in a month (#9 → #5 among all cited domains, the largest gain in the top 25)
   while holding #1 in AI-answer visibility (57.3%, +3.6 points month-over-month).
-- Established a new PR program from the ground up: defined the enterprise audience,
-  mapped the media universe.
+- Established a new PR program from the ground up: defined the enterprise and
+  entrepreneur audience, mapped the media universe.
 - Expanded the spokesperson bench from 1 to 6.
 - Extended earned media coverage beyond the US into the UK.
 - Conducted original customer research to define and separate previously blurred
