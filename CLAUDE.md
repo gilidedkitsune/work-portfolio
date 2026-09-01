@@ -119,6 +119,10 @@ role that misses the seven criteria because it's the one they happen to be worki
 - Designed a custom editorial calendar with Google SSO and integrations to Claude,
   Ordinal, Linear, and Notion.
 - Built a measurement framework for PR metrics and GEO/AEO tracking.
+- Diagnosed AI-answer visibility and citation performance, then built and executed a
+  GEO/AEO content strategy against the gaps: grew own-domain citations from 786 to
+  1,809 in a month (#9 → #5 among all cited domains, the largest gain in the top 25)
+  while holding #1 in AI-answer visibility (57.3%, +3.6 points month-over-month).
 - Established a new PR program from the ground up: defined the enterprise audience,
   mapped the media universe.
 - Expanded the spokesperson bench from 1 to 6.
