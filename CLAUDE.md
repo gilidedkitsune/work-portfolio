@@ -114,10 +114,11 @@ role that misses the seven criteria because it's the one they happen to be worki
 *Feb 2026 – Present · Remote*
 
 - Built and rolled out an AI-powered tool stack for content strategy, copywriting,
-  editing, and research. Distributed company-wide and across the creator and agency network.
+  editing, and research, including a Claude-linked copy desk for editorial review.
+  Distributed company-wide and across the creator and agency network.
 - Designed a custom editorial calendar with Google SSO and integrations to Claude,
   Ordinal, Linear, and Notion.
-- Built a custom dashboard for PR metrics and GEO/AEO tracking.
+- Built a measurement framework for PR metrics and GEO/AEO tracking.
 - Established a new PR program from the ground up: defined the enterprise audience,
   mapped the media universe.
 - Expanded the spokesperson bench from 1 to 6.
