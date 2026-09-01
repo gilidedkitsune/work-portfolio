@@ -44,9 +44,10 @@ The body of the page — the full case study, in markdown.
 
 The file's name becomes its URL: `my-project.md` → `/work/my-project`.
 
-The four current entries (`bolt-ai-content-stack.md`, `mendix-pr-program.md`,
-`mendix-team-buildout.md`, `mendix-brand-voice.md`) are drawn from real work history. Edit them
-directly, add `externalUrl` where a published piece exists, or replace with new files entirely.
+The 41 current entries were ported from the taylorbornstein.com / Journo Portfolio export —
+real work spanning Mendix, Iron Mountain, and freelance/personal writing back to 2005. The
+`/work` page groups them by career chapter (`src/pages/work/index.astro`), inferred from the
+`role` field — keep that field consistent with the era mapping there if you add more.
 
 ## Content still to confirm
 
@@ -54,8 +55,14 @@ directly, add `externalUrl` where a published piece exists, or replace with new 
   swap in a professional address if you'd rather use one.
 - **About page** (`src/pages/about.astro`) — bio and role history are filled in from your
   background; refine the voice/detail as you like.
-- **Work samples** — the four entries are real but written from resume-level facts; add
-  specifics, screenshots, or links to published pieces where you have them.
+- **Hosted assets** — many entries link to `media.journoportfolio.com` (PDFs/images) or to
+  `taylorbornstein.com/articles/...` pages that won't exist once this site replaces the old one.
+  Worth migrating: download the Journo Portfolio media and self-host it (e.g. in `public/`), and
+  either recover the `/articles/...` copy or drop those `externalUrl`s. A handful of entries
+  (the `Web Copy — *` and two short stories) have no link at all — add the original text to the
+  markdown body when you have it.
+- **Featured picks** — five entries are marked `featured: true` for the homepage; swap in
+  whichever best represent current work.
 
 ## Deploying
 

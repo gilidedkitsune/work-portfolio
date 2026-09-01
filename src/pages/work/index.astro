@@ -2,10 +2,27 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import WorkCard from '../../components/WorkCard.astro';
+import type { CollectionEntry } from 'astro:content';
 
 const allWork = (await getCollection('work', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
 );
+
+function eraFor(entry: CollectionEntry<'work'>): string {
+  const role = entry.data.role;
+  if (role.includes('Content Marketing') || role.includes('Content and Communications')) {
+    return 'Mendix';
+  }
+  if (role === 'Marketing Copywriter') {
+    return 'Iron Mountain';
+  }
+  return 'Freelance & Personal Writing';
+}
+
+const eraOrder = ['Mendix', 'Iron Mountain', 'Freelance & Personal Writing'];
+const groups = eraOrder
+  .map((era) => ({ era, entries: allWork.filter((entry) => eraFor(entry) === era) }))
+  .filter((group) => group.entries.length > 0);
 ---
 
 <BaseLayout title="Work" description="Selected writing, strategy, and content direction work by Taylor Bornstein.">
@@ -13,17 +30,26 @@ const allWork = (await getCollection('work', ({ data }) => !data.draft)).sort(
     <p class="text-sm uppercase tracking-[0.2em] text-accent">Work</p>
     <h1 class="mt-4 max-w-2xl font-display text-4xl text-ink sm:text-5xl">Selected projects</h1>
     <p class="mt-4 max-w-prose text-muted">
-      A cross-section of writing, content strategy, and editorial direction work. Get in touch
-      for the full portfolio or references.
+      Work spanning content direction, PR, and hands-on writing — grouped by chapter. Get in
+      touch for the full portfolio or references.
     </p>
 
-    <div class="mt-12">
-      {allWork.map((entry) => <WorkCard entry={entry} />)}
-      {
-        allWork.length === 0 && (
-          <p class="py-8 text-muted">Work samples are on the way — check back soon.</p>
-        )
-      }
-    </div>
+    {
+      groups.map((group) => (
+        <div class="mt-16 first:mt-12">
+          <h2 class="font-display text-2xl text-ink">{group.era}</h2>
+          <div class="mt-4">
+            {group.entries.map((entry) => (
+              <WorkCard entry={entry} />
+            ))}
+          </div>
+        </div>
+      ))
+    }
+    {
+      allWork.length === 0 && (
+        <p class="mt-12 py-8 text-muted">Work samples are on the way — check back soon.</p>
+      )
+    }
   </section>
 </BaseLayout>
