@@ -126,6 +126,9 @@ role that misses the seven criteria because it's the one they happen to be worki
 - Conducted original customer research to define and separate previously blurred
   audience segments.
 - Built a customer story pipeline sourced from B2C customers.
+- Personally write and edit ongoing blog posts, customer stories, and web copy —
+  stays hands-on with execution while setting the strategy the rest of the team
+  builds against.
 - Led foundational brand work spanning mission and vision.
 - Defined tone of voice and editorial guidelines.
 - Set content strategy across both B2B and B2C messaging.
