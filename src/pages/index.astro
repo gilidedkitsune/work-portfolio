@@ -1,0 +1,76 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allWork = await getCollection('work', ({ data }) => !data.draft);
+const featured = allWork
+  .filter((entry) => entry.data.featured)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 3);
+
+const shown = featured.length > 0
+  ? featured
+  : allWork.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
+---
+
+<BaseLayout title="Taylor Bornstein">
+  <section class="mx-auto max-w-content px-6 pb-16 pt-20 sm:px-10 sm:pt-28">
+    <p class="text-sm uppercase tracking-[0.2em] text-accent">Content &amp; Communications Director</p>
+    <h1 class="mt-6 max-w-3xl font-display text-4xl leading-[1.1] text-ink sm:text-6xl">
+      I build the systems that let technical companies say something worth reading, consistently.
+    </h1>
+    <p class="mt-6 max-w-prose text-lg text-muted">
+      Over a decade shaping how technology brands talk to developers, engineering managers, and
+      executives at once — editorial strategy, earned media, AI tooling, and the teams that run
+      on all three.
+    </p>
+    <div class="mt-8 flex flex-wrap gap-4">
+      <a
+        href="/work"
+        class="rounded-full bg-ink px-6 py-3 text-sm font-medium text-paper transition-colors hover:bg-accent"
+      >
+        See the work
+      </a>
+      <a
+        href="/contact"
+        class="rounded-full border border-line px-6 py-3 text-sm font-medium text-ink transition-colors hover:border-ink"
+      >
+        Get in touch
+      </a>
+    </div>
+  </section>
+
+  <section class="border-t border-line bg-ink text-paper">
+    <div class="mx-auto max-w-content px-6 py-16 sm:px-10">
+      <div class="flex items-baseline justify-between">
+        <h2 class="font-display text-2xl">Selected work</h2>
+        <a href="/work" class="link-underline text-sm text-paper/80 hover:text-paper">View all</a>
+      </div>
+      <div class="mt-8 divide-y divide-paper/15">
+        {
+          shown.map((entry) => (
+            <a
+              href={`/work/${entry.id}`}
+              class="group grid gap-2 py-8 first:pt-0 sm:grid-cols-[1fr_auto] sm:items-baseline sm:gap-8"
+            >
+              <div>
+                <h3 class="font-display text-2xl transition-colors group-hover:text-accent-soft">
+                  {entry.data.title}
+                </h3>
+                <p class="mt-2 max-w-prose text-paper/70">{entry.data.summary}</p>
+              </div>
+              <p class="text-sm text-paper/60 sm:text-right">{entry.data.role}</p>
+            </a>
+          ))
+        }
+        {
+          shown.length === 0 && (
+            <p class="py-8 text-paper/70">
+              Work samples are on the way — check back soon.
+            </p>
+          )
+        }
+      </div>
+    </div>
+  </section>
+</BaseLayout>

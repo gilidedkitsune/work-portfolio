@@ -1,0 +1,36 @@
+---
+const links = [
+  { href: '/work', label: 'Work' },
+  { href: '/about', label: 'About' },
+  { href: '/contact', label: 'Contact' },
+];
+const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
+---
+
+<header class="border-b border-line">
+  <div class="mx-auto flex max-w-content items-center justify-between px-6 py-6 sm:px-10">
+    <a href="/" class="font-display text-lg tracking-tight text-ink">
+      Taylor Bornstein
+    </a>
+    <nav class="flex items-center gap-6 text-sm">
+      {
+        links.map((link) => {
+          const isActive =
+            currentPath === link.href || currentPath.startsWith(`${link.href}/`);
+          return (
+            <a
+              href={link.href}
+              aria-current={isActive ? 'page' : undefined}
+              class:list={[
+                'link-underline pb-0.5 text-muted transition-colors hover:text-ink',
+                { 'text-ink': isActive },
+              ]}
+            >
+              {link.label}
+            </a>
+          );
+        })
+      }
+    </nav>
+  </div>
+</header>

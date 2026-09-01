@@ -1,0 +1,79 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('work', ({ data }) => !data.draft);
+  return entries.map((entry) => ({
+    params: { id: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { title, client, role, summary, date, tags, externalUrl } = entry.data;
+const { Content } = await render(entry);
+
+const formattedDate = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long' });
+---
+
+<BaseLayout title={title} description={summary}>
+  <article class="mx-auto max-w-content px-6 pb-24 pt-16 sm:px-10 sm:pt-24">
+    <a href="/work" class="link-underline text-sm text-muted hover:text-ink">&larr; All work</a>
+
+    <header class="mt-8 max-w-3xl border-b border-line pb-10">
+      <h1 class="font-display text-4xl text-ink sm:text-5xl">{title}</h1>
+      <p class="mt-4 max-w-prose text-lg text-muted">{summary}</p>
+
+      <dl class="mt-8 grid grid-cols-2 gap-6 text-sm sm:grid-cols-4">
+        <div>
+          <dt class="text-muted">Role</dt>
+          <dd class="mt-1 text-ink">{role}</dd>
+        </div>
+        {
+          client && (
+            <div>
+              <dt class="text-muted">Client</dt>
+              <dd class="mt-1 text-ink">{client}</dd>
+            </div>
+          )
+        }
+        <div>
+          <dt class="text-muted">Date</dt>
+          <dd class="mt-1 text-ink">{formattedDate}</dd>
+        </div>
+        {
+          externalUrl && (
+            <div>
+              <dt class="text-muted">Link</dt>
+              <dd class="mt-1">
+                <a
+                  href={externalUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="link-underline text-accent"
+                >
+                  View live &rarr;
+                </a>
+              </dd>
+            </div>
+          )
+        }
+      </dl>
+
+      {
+        tags.length > 0 && (
+          <ul class="mt-6 flex flex-wrap gap-2 text-xs uppercase tracking-wide text-muted">
+            {tags.map((tag) => (
+              <li class="rounded-full border border-line px-2.5 py-1">{tag}</li>
+            ))}
+          </ul>
+        )
+      }
+    </header>
+
+    <div class="prose prose-lg mt-10 max-w-prose prose-headings:font-display prose-headings:text-ink prose-a:text-accent">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>

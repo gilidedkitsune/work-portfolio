@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const email = 'taylor.spear@gmail.com';
+---
+
+<BaseLayout title="Contact" description="Get in touch with Taylor Bornstein.">
+  <section class="mx-auto max-w-content px-6 pb-24 pt-16 sm:px-10 sm:pt-24">
+    <p class="text-sm uppercase tracking-[0.2em] text-accent">Contact</p>
+    <h1 class="mt-4 max-w-2xl font-display text-4xl text-ink sm:text-5xl">
+      Let's work together.
+    </h1>
+    <p class="mt-6 max-w-prose text-lg text-muted">
+      Whether it's a single project or an ongoing content lead role, I'd love to hear about it.
+      The fastest way to reach me is email.
+    </p>
+
+    <div class="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center">
+      <a
+        href={`mailto:${email}`}
+        class="rounded-full bg-ink px-6 py-3 text-sm font-medium text-paper transition-colors hover:bg-accent"
+      >
+        {email}
+      </a>
+      <a
+        href="https://www.linkedin.com/in/taylorscribnerspear"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="rounded-full border border-line px-6 py-3 text-sm font-medium text-ink transition-colors hover:border-ink"
+      >
+        LinkedIn
+      </a>
+    </div>
+  </section>
+</BaseLayout>
