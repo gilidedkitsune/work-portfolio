@@ -137,7 +137,7 @@ role that misses the seven criteria because it's the one they happen to be worki
 - Defined tone of voice and editorial guidelines.
 - Set content strategy across both B2B and B2C messaging.
 - Launched a new blog.
-- Increased publication cadence from 1–2 posts/month to 1–2/week.
+- Increased publication cadence from 1–2 posts/month to 3–4/week.
 
 ### Mendix — Sept 2019 – Feb 2026 · Remote
 
