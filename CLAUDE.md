@@ -174,11 +174,23 @@ role that misses the seven criteria because it's the one they happen to be worki
 - Created a cross-functional content program driving business through demand gen.
 
 ### Iron Mountain — Marketing Copywriter
-*July 2015 – Aug 2019 · Boston, MA*
+*Sept 2016 – Aug 2019 · Boston, MA*
 - Built a thought leadership microsite from concept through launch.
 - Balanced content and campaign demands across multiple product lines and geographies.
 - Created inbound and outbound content: blogs, ebooks, research reports, social, web, events.
 - Implemented full-funnel, multi-channel content plans tailored to customer personas.
+
+### Benefitness Health Club — Marketing Manager
+*May 2015 – Aug 2016 · Brookline, MA*
+- Developed and implemented marketing campaigns promoting membership and gym services.
+
+### Freelance Writer & Editor — Self-Employed
+*Aug 2014 – Sep 2016 · Remote*
+- Wrote blog articles, SEO-focused web content, product reviews, email marketing, banner
+  ads, print media, and ghostwriting for clients including Benefitness Health Club, the
+  North American Neuroendocrine Tumor Society (NANETS), Artemis Hub Company, and
+  individual private clients.
+- Designed and built new websites for clients.
 
 ### Internet Brands — Content Editor & Manager, Retail Marketing
 *2009 – 2014 · Remote*
@@ -212,9 +224,13 @@ claim they use it, having built and distributed the stack is the differentiator.
 > against them, and established the PR program. I'd rather do that work where it's the
 > actual mandate.
 
-Tenure context: Iron Mountain 4.1 years, Mendix 6.4 years, back to back with no gap.
-10.5 consecutive years across two employers. The short stint reads as a correction,
-not a pattern.
+Tenure context: no actual gap anywhere in the timeline. Internet Brands (Jul 2009 – Jul
+2014) into freelance writing (Aug 2014 – Sep 2016, with a part-time marketing role at
+Benefitness Health Club inside that stretch), into Iron Mountain (Sep 2016 – Aug 2019),
+into Mendix (Sep 2019 – Feb 2026, no gap), into Bolt.new — each transition connects
+cleanly. Continuous work history since 2009. Frame the freelance stretch as a deliberate
+choice if asked about it, not an explanation. The short Bolt.new stint reads as a
+correction, not a pattern.
 
 ---
 
