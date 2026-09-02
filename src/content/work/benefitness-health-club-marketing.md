@@ -13,16 +13,10 @@ Small-business marketing means writing and designing across everything at once â
 promotions, membership sales, and the harder job of keeping members onside through a price
 increase.
 
-![Fall fitness sale poster](/work/benefitness-fall-training-poster.jpg)
-
 ![Gift certificate campaign banner](/work/benefitness-gift-certs-banner.jpg)
 
 ![Spring open house flyer](/work/benefitness-open-house-flyer.jpg)
 
 ![Winter runner's special banner](/work/benefitness-winter-runners-banner.jpg)
-
-The dues-increase letter below is the harder version of this work: telling members their price
-is going up while keeping the relationship intact, backed by a local-market comparison chart
-showing Benefitness still undercutting most competitors.
 
 ![2016 dues increase letter with local gym price comparison](/work/benefitness-dues-increase-letter.jpg)
