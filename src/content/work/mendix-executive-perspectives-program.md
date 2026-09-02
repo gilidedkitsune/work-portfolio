@@ -1,7 +1,7 @@
 ---
 title: "Mendix — Executive Perspectives Thought Leadership Program"
 client: "Mendix"
-role: "Senior Manager, Content Marketing"
+role: "Director, Content & PR"
 summary: "Check out the latest and greatest from the minds behind Mendix."
 date: 2022-12-20
 tags: ["Thought Leadership", "Program"]

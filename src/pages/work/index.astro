@@ -9,14 +9,14 @@ const allWork = (await getCollection('work', ({ data }) => !data.draft)).sort(
 );
 
 function eraFor(entry: CollectionEntry<'work'>): string {
-  const role = entry.data.role;
-  if (role.includes('Content and Communications')) {
+  const { client, role } = entry.data;
+  if (client === 'Bolt.new') {
     return 'Bolt.new';
   }
-  if (role.includes('Content Marketing')) {
+  if (client === 'Mendix') {
     return 'Mendix';
   }
-  if (role === 'Marketing Copywriter') {
+  if (client === 'IronMountain.com' || role === 'Marketing Copywriter') {
     return 'Iron Mountain';
   }
   return 'Early Career & Freelance';

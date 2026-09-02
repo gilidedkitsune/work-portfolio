@@ -1,7 +1,7 @@
 ---
 title: "Collin Crowdfund Delivers a Custom, End-to-End Lending Platform"
 client: "Mendix"
-role: "Senior Manager, Content Marketing"
+role: "Director, Content & PR"
 summary: "A customer story on how Collin Crowdfund built a custom, end-to-end lending platform on Mendix."
 date: 2022-12-05
 tags: ["Customer Story", "Case Study"]
