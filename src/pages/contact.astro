@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import Button from '../components/Button.astro';
 
 const email = 'taylor.spear@gmail.com';
 ---
@@ -16,20 +17,15 @@ const email = 'taylor.spear@gmail.com';
     </p>
 
     <div class="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center">
-      <a
-        href={`mailto:${email}`}
-        class="rounded-full bg-ink px-6 py-3 text-sm font-medium text-paper transition-colors hover:bg-accent"
-      >
-        {email}
-      </a>
-      <a
+      <Button href={`mailto:${email}`} variant="primary">{email}</Button>
+      <Button
         href="https://www.linkedin.com/in/taylorscribnerspear"
         target="_blank"
         rel="noopener noreferrer"
-        class="rounded-full border border-line px-6 py-3 text-sm font-medium text-ink transition-colors hover:border-ink"
+        variant="secondary"
       >
         LinkedIn
-      </a>
+      </Button>
     </div>
   </section>
 </BaseLayout>

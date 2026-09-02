@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import Button from '../components/Button.astro';
 
 const allWork = await getCollection('work', ({ data }) => !data.draft);
 const featured = allWork
@@ -40,18 +41,8 @@ const spotlight = allWork.find((entry) => entry.id === 'bolt-blog-visionary-tech
           </p>
         </div>
         <div class="mt-8 flex flex-wrap gap-4">
-          <a
-            href="/work"
-            class="rounded-full bg-ink px-6 py-3 text-sm font-medium text-paper transition-colors hover:bg-accent"
-          >
-            See the work
-          </a>
-          <a
-            href="/contact"
-            class="rounded-full border border-line px-6 py-3 text-sm font-medium text-ink transition-colors hover:border-ink"
-          >
-            Get in touch
-          </a>
+          <Button href="/work" variant="primary">See the work</Button>
+          <Button href="/contact" variant="secondary">Get in touch</Button>
         </div>
       </div>
 
@@ -77,9 +68,9 @@ const spotlight = allWork.find((entry) => entry.id === 'bolt-blog-visionary-tech
 
   <section class="border-t border-line bg-ink text-paper">
     <div class="mx-auto max-w-content px-6 py-16 sm:px-10">
-      <div class="flex items-baseline justify-between">
+      <div class="flex flex-wrap items-center justify-between gap-4">
         <h2 class="font-display text-2xl">Selected work</h2>
-        <a href="/work" class="link-underline text-sm text-paper/80 hover:text-paper">View all</a>
+        <Button href="/work" variant="light" size="sm">View all work &rarr;</Button>
       </div>
       <div class="mt-8 divide-y divide-paper/15">
         {
