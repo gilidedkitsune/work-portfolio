@@ -109,6 +109,35 @@ nobody is advocating. I interview well, so getting into the room is most of the 
 the req. Take comp advice with that in mind, and don't let a recruiter talk me into a
 role that misses the seven criteria because it's the one they happen to be working.
 
+**Standing outreach template.** One universal version, no per-firm hook needed —
+generic "Hello," greeting works for named contacts and role inboxes alike:
+
+> Hello,
+>
+> I'm a Director-level content and communications leader at Bolt.new. I started here
+> after five-plus years scaling the Mendix content org from the ground up. I've worked
+> with recruiters to land my last three jobs, and I want to be in your pipeline. Three
+> things I'd point to:
+> - I took Mendix's content team from 1 to 9 in nine months and built the editorial
+>   infrastructure it still runs on.
+> - At Bolt.new, I built the AI tooling most JDs expect candidates to have used, not
+>   built, including a Claude-linked copy desk and a custom content calendar.
+> - And I run GEO/AEO strategy day to day, growing Bolt.new's own-domain AI citations
+>   from 786 to 1,809 in a month while holding #1 in AI-answer visibility for the
+>   category.
+>
+> I'm selective: 2–4 roles a week, only where the mandate is real content strategy and
+> team-building, not just execution. My current company has made a harder pivot to a
+> B2C focus, so I'm looking to return to B2B. Target profile: dev tools, AI, or B2B
+> SaaS, remote, at or above $200K. I can start right away. Happy to do a quick intro
+> call whenever works, even if nothing's open right now.
+>
+> Resume attached.
+
+The "five-plus years scaling the org" figure counts from the Sept 2020 Manager
+promotion (when team-building actually started), not the Sept 2019 hire date — that's
+six-plus years and measures total Mendix tenure, a different claim.
+
 ---
 
 ## Work history
