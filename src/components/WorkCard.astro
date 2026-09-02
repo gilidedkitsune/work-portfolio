@@ -6,13 +6,23 @@ interface Props {
 }
 
 const { entry } = Astro.props;
-const { title, client, role, summary, tags } = entry.data;
+const { title, client, role, summary, tags, coverImage } = entry.data;
 ---
 
 <a
   href={`/work/${entry.id}`}
-  class="group flex flex-col gap-3 border-b border-line py-8 first:pt-0 sm:flex-row sm:items-baseline sm:justify-between sm:gap-8"
+  class="group flex flex-col gap-4 border-b border-line py-8 first:pt-0 sm:flex-row sm:items-baseline sm:justify-between sm:gap-8"
 >
+  {
+    coverImage && (
+      <img
+        src={coverImage}
+        alt=""
+        loading="lazy"
+        class="h-20 w-28 shrink-0 rounded-lg border border-line object-cover sm:order-first"
+      />
+    )
+  }
   <div class="flex-1">
     <h3 class="font-display text-2xl text-ink transition-colors group-hover:text-accent">
       {title}

@@ -11,7 +11,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { title, client, role, summary, date, tags, externalUrl } = entry.data;
+const { title, client, role, summary, date, tags, externalUrl, coverImage } = entry.data;
 const { Content } = await render(entry);
 
 const formattedDate = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long' });
@@ -71,6 +71,16 @@ const formattedDate = date.toLocaleDateString('en-US', { year: 'numeric', month:
         )
       }
     </header>
+
+    {
+      coverImage && (
+        <img
+          src={coverImage}
+          alt={title}
+          class="mt-10 max-w-xl rounded-xl border border-line"
+        />
+      )
+    }
 
     <div class="prose prose-lg mt-10 max-w-prose prose-headings:font-display prose-headings:text-ink prose-a:text-accent">
       <Content />

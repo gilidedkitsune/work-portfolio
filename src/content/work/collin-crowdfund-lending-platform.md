@@ -6,6 +6,7 @@ summary: "A customer story on how Collin Crowdfund built a custom, end-to-end le
 date: 2022-12-05
 tags: ["Customer Story", "Case Study"]
 externalUrl: "https://www.mendix.com/customer-stories/collin-crowdfund/"
+coverImage: "/work/collin-crowdfund-lending-platform.jpg"
 featured: true
 draft: false
 ---

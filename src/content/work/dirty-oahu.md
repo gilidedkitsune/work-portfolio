@@ -4,6 +4,7 @@ role: "Personal Writing"
 summary: "Short story about the filthiest Hawaiian vacation of all time."
 date: 2007-03-14
 tags: ["Short Story", "Fiction"]
+coverImage: "/work/dirty-oahu.jpg"
 featured: false
 draft: false
 ---

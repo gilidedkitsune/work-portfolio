@@ -6,6 +6,7 @@ summary: "Email nurture track for the SMB audience."
 date: 2018-09-14
 tags: ["Email", "Demand Gen"]
 externalUrl: "https://media.journoportfolio.com/users/62073/images/a04cf1d4-86b3-4eef-a3cd-e256dfaa2370.jpg"
+coverImage: "/work/b2b-small-business-nurture-track.jpg"
 featured: false
 draft: false
 ---
