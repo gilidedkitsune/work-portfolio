@@ -19,10 +19,10 @@ function eraFor(entry: CollectionEntry<'work'>): string {
   if (role === 'Marketing Copywriter') {
     return 'Iron Mountain';
   }
-  return 'Freelance & Personal Writing';
+  return 'Early Career & Freelance';
 }
 
-const eraOrder = ['Bolt.new', 'Mendix', 'Iron Mountain', 'Freelance & Personal Writing'];
+const eraOrder = ['Bolt.new', 'Mendix', 'Iron Mountain', 'Early Career & Freelance'];
 const groups = eraOrder
   .map((era) => ({ era, entries: allWork.filter((entry) => eraFor(entry) === era) }))
   .filter((group) => group.entries.length > 0);
