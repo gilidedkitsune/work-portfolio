@@ -5,8 +5,8 @@ role: "Senior Manager, Content Marketing"
 summary: "A highlight reel of what I've accomplished in Content at Mendix."
 date: 2023-02-10
 tags: ["Highlight Reel", "Content Strategy"]
-externalUrl: "https://media.journoportfolio.com/users/62073/uploads/22a5b405-d8ea-4e66-9e0f-3507edf4b56d.pdf"
+externalUrl: "https://bolt.new/p/70547749"
 featured: true
 draft: false
 ---
-[View the piece](https://media.journoportfolio.com/users/62073/uploads/22a5b405-d8ea-4e66-9e0f-3507edf4b56d.pdf)
+[View the piece](https://bolt.new/p/70547749)
