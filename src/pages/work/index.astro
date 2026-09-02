@@ -10,7 +10,10 @@ const allWork = (await getCollection('work', ({ data }) => !data.draft)).sort(
 
 function eraFor(entry: CollectionEntry<'work'>): string {
   const role = entry.data.role;
-  if (role.includes('Content Marketing') || role.includes('Content and Communications')) {
+  if (role.includes('Content and Communications')) {
+    return 'Bolt.new';
+  }
+  if (role.includes('Content Marketing')) {
     return 'Mendix';
   }
   if (role === 'Marketing Copywriter') {
@@ -19,7 +22,7 @@ function eraFor(entry: CollectionEntry<'work'>): string {
   return 'Freelance & Personal Writing';
 }
 
-const eraOrder = ['Mendix', 'Iron Mountain', 'Freelance & Personal Writing'];
+const eraOrder = ['Bolt.new', 'Mendix', 'Iron Mountain', 'Freelance & Personal Writing'];
 const groups = eraOrder
   .map((era) => ({ era, entries: allWork.filter((entry) => eraFor(entry) === era) }))
   .filter((group) => group.entries.length > 0);

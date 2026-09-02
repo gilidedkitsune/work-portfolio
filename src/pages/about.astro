@@ -1,5 +1,82 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+const experience = [
+  {
+    company: 'Bolt.new',
+    role: 'Content and Communications Director',
+    dates: 'Feb 2026 – present',
+    location: 'Remote',
+    highlights: [
+      'Grew own-domain AI citations from 786 to 1,809 in a month via a GEO/AEO content strategy — #9 to #5 among all cited domains, the largest gain in the top 25.',
+      'Built and rolled out a company-wide AI tool suite for content and writing, including a Claude-linked copy desk and a custom content/PR calendar.',
+      'Set content strategy across B2B and B2C messaging, launched a new blog, and grew publication cadence from 1–2 posts/month to 3–4/week.',
+    ],
+  },
+  {
+    company: 'Mendix',
+    role: 'Director of Content Marketing and Public Relations',
+    dates: 'Jul 2023 – Feb 2026',
+    location: 'Remote',
+    highlights: [
+      'Ran a data-driven PR program across 5 agencies (US, UK, Benelux, DACH, Singapore), driving earned media to 60% of tier-1 coverage — a 40% YoY increase.',
+      'Planned and executed an integrated campaign on an original global survey: coverage up 75% in 3 weeks, $10M influenced pipeline.',
+    ],
+  },
+  {
+    company: 'Mendix',
+    role: 'Senior Manager & Manager, Content Marketing',
+    dates: 'Sep 2020 – Jul 2023',
+    location: 'Remote',
+    highlights: [
+      'Grew the content team from 1 to 9 writers and strategists in 9 months; built the editorial calendar and full-funnel program that scaled with it.',
+      'Recovered a 22% YoY web traffic deficit with 4 new SEO-optimized content BOMs.',
+    ],
+  },
+  {
+    company: 'Mendix',
+    role: 'Copywriter',
+    dates: 'Sep 2019 – Sep 2020',
+    location: 'Remote',
+    highlights: [
+      'Established the Mendix brand voice and editorial guidelines across blogs, ebooks, white papers, webinars, video, events, and email.',
+    ],
+  },
+  {
+    company: 'Iron Mountain',
+    role: 'Marketing Copywriter',
+    dates: 'Sep 2016 – Aug 2019',
+    location: 'Boston, MA',
+    highlights: [
+      'Built a thought-leadership microsite from concept through launch; ran full-funnel, multi-channel content plans across product lines and geographies.',
+    ],
+  },
+  {
+    company: 'Freelance Writer & Editor',
+    role: 'Self-Employed',
+    dates: 'Aug 2014 – Sep 2016',
+    location: 'Remote',
+    highlights: [
+      'Wrote blog content, SEO web copy, product reviews, and ghostwriting for clients including Benefitness Health Club and NANETS; designed and built client websites.',
+    ],
+  },
+  {
+    company: 'Benefitness Health Club',
+    role: 'Marketing Manager',
+    dates: 'May 2015 – Aug 2016',
+    location: 'Brookline, MA',
+    highlights: ['Developed and ran marketing campaigns promoting membership and gym services.'],
+  },
+  {
+    company: 'Internet Brands',
+    role: 'Content Editor & Manager, Retail Marketing',
+    dates: '2009 – 2014',
+    location: 'Remote',
+    highlights: [
+      'Wrote copy for up to five retail websites daily while managing and training a team of 5–8 writers across a portfolio of consumer brands.',
+    ],
+  },
+];
 ---
 
 <BaseLayout title="About" description="About Taylor Bornstein — content and communications director, based in Fredericksburg, VA, remote.">
@@ -12,28 +89,54 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </p>
 
     <div class="mt-10 grid gap-12 sm:grid-cols-[2fr_1fr]">
-      <div class="prose prose-lg max-w-prose prose-headings:font-display prose-headings:text-ink">
-        <p>
-          I'm a content and communications leader — director level, with over a decade shaping
-          how technology brands talk to developers, engineering managers, and executives at once.
-        </p>
-        <p>
-          Most people in this seat can do editorial craft or pipeline attribution. Fewer have run
-          both. I build the systems — editorial infrastructure, AI tooling, measurement, and
-          teams — that let technical companies say something worth reading, consistently. That
-          means I'm as comfortable drafting the sentence myself as I am standing up the
-          editorial calendar, the tone-of-voice guidelines, and the AI-powered tool stack that
-          lets a team ship good writing without me in the room.
-        </p>
-        <h2>What I do</h2>
-        <ul>
-          <li>Content strategy &amp; editorial direction</li>
-          <li>Public relations &amp; earned media programs</li>
-          <li>Brand voice, editorial guidelines &amp; style systems</li>
-          <li>Content team building &amp; management</li>
-          <li>AI tooling for content and editorial workflows</li>
-          <li>Measurement — PR metrics, GEO/AEO, and attribution for editorial work</li>
-        </ul>
+      <div>
+        <div class="prose prose-lg max-w-prose prose-headings:font-display prose-headings:text-ink">
+          <p>
+            I'm a content director who builds content strategy and the programs that scale it
+            for technical and executive audiences. I have a proven capacity to build thriving
+            practices from the ground up — the editorial infrastructure, AI tooling,
+            measurement, and teams — for organizations that need words to do real work.
+          </p>
+          <p>
+            That means I'm as comfortable drafting the sentence myself as I am standing up the
+            editorial calendar, the tone-of-voice guidelines, and the AI-powered tool stack that
+            lets a team ship good writing without me in the room.
+          </p>
+          <h2>What I do</h2>
+          <ul>
+            <li>Content strategy &amp; editorial direction</li>
+            <li>Public relations &amp; earned media programs</li>
+            <li>Brand voice, editorial guidelines &amp; style systems</li>
+            <li>Content team building &amp; management</li>
+            <li>AI tooling for content and editorial workflows</li>
+            <li>Measurement — PR metrics, GEO/AEO, and attribution for editorial work</li>
+          </ul>
+        </div>
+
+        <h2 class="mt-12 font-display text-2xl text-ink">Experience</h2>
+        <div class="mt-6 space-y-10">
+          {
+            experience.map((job) => (
+              <div class="border-b border-line pb-8 last:border-0 last:pb-0">
+                <div class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
+                  <h3 class="font-display text-xl text-ink">
+                    {job.company} — {job.role}
+                  </h3>
+                  <p class="text-sm text-muted">{job.dates}</p>
+                </div>
+                <p class="text-sm text-muted">{job.location}</p>
+                <ul class="mt-3 space-y-1.5 text-muted">
+                  {job.highlights.map((point) => (
+                    <li class="pl-4 -indent-4">
+                      <span class="mr-2 text-accent">–</span>
+                      {point}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))
+          }
+        </div>
       </div>
 
       <div class="text-sm text-muted">
@@ -41,24 +144,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         <p class="mt-2 text-ink">Content and Communications Director, Bolt.new</p>
         <p class="mt-1">Remote &middot; Feb 2026 &ndash; present</p>
 
-        <h2 class="mt-8 font-display text-lg text-ink">Previously</h2>
-        <ul class="mt-2 space-y-3">
-          <li>
-            <p class="text-ink">Director of Content Marketing &amp; PR, Mendix</p>
-            <p>2019 &ndash; 2026</p>
-          </li>
-          <li>
-            <p class="text-ink">Marketing Copywriter, Iron Mountain</p>
-            <p>2015 &ndash; 2019</p>
-          </li>
-          <li>
-            <p class="text-ink">Content Editor &amp; Manager, Internet Brands</p>
-            <p>2009 &ndash; 2014</p>
-          </li>
-        </ul>
-
         <h2 class="mt-8 font-display text-lg text-ink">Education</h2>
-        <p class="mt-2">MA in Writing, University of Warwick</p>
+        <p class="mt-2">MA in Creative Writing, University of Warwick</p>
         <p class="mt-1">BA in English &amp; Spanish, University of Vermont (cum laude)</p>
 
         <a
