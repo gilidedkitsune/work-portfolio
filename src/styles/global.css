@@ -2,12 +2,12 @@
 @plugin "@tailwindcss/typography";
 
 @theme {
-  --color-ink: #16140f;
-  --color-paper: #faf7f2;
-  --color-accent: #a3462e;
-  --color-accent-soft: #c98a75;
-  --color-muted: #6f6a5f;
-  --color-line: #e6e0d4;
+  --color-ink: #16213e;
+  --color-paper: #faf4f5;
+  --color-accent: #0e4b4f;
+  --color-accent-soft: #9fcfc7;
+  --color-muted: #5c6b7a;
+  --color-line: #e9e1e3;
 
   --font-display: "Fraunces", Georgia, serif;
   --font-sans: "Inter", system-ui, sans-serif;
