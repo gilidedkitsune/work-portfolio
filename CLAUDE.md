@@ -96,6 +96,9 @@ nobody is advocating. I interview well, so getting into the room is most of the 
 - Have five answers ready for the intake screen: comp, location, notice period, why
   I'm looking, what I'd say no to. Never hedge on comp — vagueness gets you
   deprioritized.
+  - **Notice period:** ready to work immediately.
+  - **Why I'm looking:** my current company has shifted back to predominantly B2C,
+    and I'm specifically looking for B2B-focused roles.
 - Ask whether they run contingency or retained. Contingency moves fast and pitches
   broadly; retained only calls on a real fit. It tells me how often to expect contact.
 - Say plainly that I'm employed and selective at 2–4 applications a week. That makes me
