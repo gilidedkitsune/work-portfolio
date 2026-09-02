@@ -7,9 +7,10 @@ const links = [
 const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
 ---
 
-<header class="border-b border-line">
+<header class="border-b-2 border-accent/20">
   <div class="mx-auto flex max-w-content items-center justify-between px-6 py-6 sm:px-10">
-    <a href="/" class="font-display text-lg tracking-tight text-ink">
+    <a href="/" class="group flex items-center gap-2.5 font-display text-xl font-semibold tracking-tight text-ink">
+      <span class="h-2 w-2 shrink-0 rounded-full bg-accent transition-transform duration-200 group-hover:scale-125"></span>
       Taylor Bornstein
     </a>
     <nav class="flex items-center gap-6 text-sm">
