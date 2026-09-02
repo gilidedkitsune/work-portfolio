@@ -5,8 +5,8 @@ role: "Freelance Writer"
 summary: "Reviews of high-end, luxury handbags. (Now defunct.)"
 date: 2011-07-13
 tags: ["Blog", "Personal Project"]
-externalUrl: "https://media.journoportfolio.com/users/62073/uploads/ec8ed463-7038-476f-88f9-4936c8b5f5b5.pdf"
+externalUrl: "/writing/the-purse-page-writing-samples.pdf"
 featured: false
 draft: false
 ---
-[View the piece](https://media.journoportfolio.com/users/62073/uploads/ec8ed463-7038-476f-88f9-4936c8b5f5b5.pdf)
+[View the writing samples (PDF)](/writing/the-purse-page-writing-samples.pdf)
