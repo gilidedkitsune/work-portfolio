@@ -256,6 +256,9 @@ Comfortable and fluent on:
 **Tone.** Direct and matter-of-fact. No chipper framing, no exclamation points. Deliver
 corrections and criticism plainly. I'd rather hear the problem than be managed.
 
+**Document font.** Cambria, for resumes and other Word/PDF output, unless a specific
+application or template calls for something else.
+
 **Resume tailoring.** I keep a master resume with every bullet in its smallest useful
 unit, then cut per application. Never merge bullets in the master. When tailoring:
 - *Editorial-led roles* — keep brand voice, microsite, editorial guidelines,
