@@ -20,17 +20,19 @@ const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
   >
   </div>
 
-  <div class="mx-auto flex max-w-content items-center justify-between px-6 py-5 sm:px-10">
+  <div class="mx-auto flex max-w-content items-center justify-between gap-3 px-6 py-5 sm:px-10">
     <a
       href="/"
-      class="group flex items-center gap-2.5 font-display text-xl font-semibold tracking-tight text-paper"
+      class="group flex shrink-0 items-center gap-2 font-display text-base font-semibold tracking-tight text-paper sm:gap-2.5 sm:text-xl"
     >
       <span
-        class="h-2 w-2 shrink-0 rounded-full bg-accent-soft transition-transform duration-200 group-hover:scale-125"
+        class="h-1.5 w-1.5 shrink-0 rounded-full bg-accent-soft transition-transform duration-200 group-hover:scale-125 sm:h-2 sm:w-2"
       ></span>
-      <span class="transition-colors group-hover:text-accent-soft">Taylor Bornstein</span>
+      <span class="whitespace-nowrap transition-colors group-hover:text-accent-soft">
+        Taylor Bornstein
+      </span>
     </a>
-    <nav class="flex items-center gap-7 text-sm">
+    <nav class="flex items-center gap-3.5 text-xs sm:gap-7 sm:text-sm">
       {
         links.map((link) => {
           const isActive =
