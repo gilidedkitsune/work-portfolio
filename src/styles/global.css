@@ -3,11 +3,11 @@
 
 @theme {
   --color-ink: #16213e;
-  --color-paper: #faf4f5;
+  --color-paper: #f9f2eb;
   --color-accent: #0e4b4f;
   --color-accent-soft: #9fcfc7;
   --color-muted: #5c6b7a;
-  --color-line: #e9e1e3;
+  --color-line: #e9e1d8;
 
   --font-display: "Fraunces", Georgia, serif;
   --font-sans: "Inter", system-ui, sans-serif;

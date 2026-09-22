@@ -7,13 +7,30 @@ const links = [
 const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
 ---
 
-<header class="border-b-2 border-accent/20">
-  <div class="mx-auto flex max-w-content items-center justify-between px-6 py-6 sm:px-10">
-    <a href="/" class="group flex items-center gap-2.5 font-display text-xl font-semibold tracking-tight text-ink">
-      <span class="h-2 w-2 shrink-0 rounded-full bg-accent transition-transform duration-200 group-hover:scale-125"></span>
-      Taylor Bornstein
+<header class="relative isolate overflow-hidden bg-accent">
+  <div
+    class="pointer-events-none absolute inset-0 -z-10 bg-cover bg-center"
+    style="background-image: url('/images/masthead-forest.jpg');"
+    aria-hidden="true"
+  >
+  </div>
+  <div
+    class="pointer-events-none absolute inset-0 -z-10 bg-gradient-to-b from-transparent to-ink/25"
+    aria-hidden="true"
+  >
+  </div>
+
+  <div class="mx-auto flex max-w-content items-center justify-between px-6 py-5 sm:px-10">
+    <a
+      href="/"
+      class="group flex items-center gap-2.5 font-display text-xl font-semibold tracking-tight text-paper"
+    >
+      <span
+        class="h-2 w-2 shrink-0 rounded-full bg-accent-soft transition-transform duration-200 group-hover:scale-125"
+      ></span>
+      <span class="transition-colors group-hover:text-accent-soft">Taylor Bornstein</span>
     </a>
-    <nav class="flex items-center gap-6 text-sm">
+    <nav class="flex items-center gap-7 text-sm">
       {
         links.map((link) => {
           const isActive =
@@ -23,11 +40,14 @@ const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
               href={link.href}
               aria-current={isActive ? 'page' : undefined}
               class:list={[
-                'link-underline pb-0.5 text-muted transition-colors hover:text-ink',
-                { 'text-ink': isActive },
+                'relative pb-1.5 font-medium transition-colors',
+                isActive ? 'text-paper' : 'link-underline text-paper/70 hover:text-paper',
               ]}
             >
               {link.label}
+              {isActive && (
+                <span class="absolute inset-x-0 bottom-0 h-0.5 rounded-full bg-accent-soft" />
+              )}
             </a>
           );
         })
