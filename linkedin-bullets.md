@@ -10,9 +10,9 @@ got cut there to fit one page) but is restored here at the correct 3–4/week fi
 ## Bolt.new — Content and Communications Director
 
 - Own content strategy for AI-driven discovery: diagnosed AI-answer visibility and
-  citation gaps, then built and executed a GEO/AEO strategy that grew own-domain
-  citations from 786 to 1,809 in a month (#9 → #5 among all cited domains) while
-  holding #1 in category AI-answer visibility.
+  citation gaps, then built and executed a GEO/AEO strategy against them.
+- Grew own-domain citations from 786 to 1,809 in a month (#9 to #5 among all cited
+  domains) while holding #1 in category AI-answer visibility.
 - Led foundational brand work spanning mission, vision, tone of voice, and editorial
   guidelines: the standards that keep content consistent across the internal team,
   external creators, and agency partners.
@@ -31,14 +31,14 @@ got cut there to fit one page) but is restored here at the correct 3–4/week fi
 
 ## Mendix — Director of Content Marketing and Public Relations
 
-- Owned Mendix's flagship research and thought-leadership program: planned and
-  executed an integrated campaign anchored on an original global survey in 4 months,
-  landing 75% more coverage than prior years within 3 weeks and $10M in influenced
+- Owned Mendix's flagship research and thought-leadership program: an integrated
+  campaign anchored on an original global survey, planned and executed in 4 months.
+- Landed 75% more coverage than prior years within 3 weeks and $10M in influenced
   pipeline.
 - Directed a data-driven PR program across 5 agencies spanning the US, UK, Benelux,
   DACH, and Singapore, none of them reporting to me, holding every market to the
-  same editorial bar; drove earned media to 60% of tier-1 coverage, a 40% YoY
-  increase.
+  same editorial bar.
+- Drove earned media to 60% of tier-1 coverage, a 40% YoY increase.
 - Aligned content and PR strategy with marketing leadership and company KPIs, and
   optimized a $1M annual budget toward the highest-impact programs.
 

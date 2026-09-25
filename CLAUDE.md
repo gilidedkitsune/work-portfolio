@@ -295,7 +295,15 @@ Comfortable and fluent on:
 corrections and criticism plainly. I'd rather hear the problem than be managed.
 
 **Document font.** Cambria, for resumes and other Word/PDF output, unless a specific
-application or template calls for something else.
+application or template calls for something else. Open question as of the master
+resume rebuild below: possibly switching to Noto Sans (one sans-serif font
+throughout) — scope (just the master resume, or the new standing default for
+everything) still to be confirmed.
+
+**Master resume rebuild (in progress).** Building a proper master resume that isn't
+constrained to one page — every bullet in its smallest unit, nothing cut for space.
+The Cato Networks resume and other tailored versions still cut from this; the master
+itself should hold everything.
 
 **Resume tailoring.** I keep a master resume with every bullet in its smallest useful
 unit, then cut per application. Never merge bullets in the master. When tailoring:
