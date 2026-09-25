@@ -50,7 +50,7 @@ got cut there to fit one page) but is restored here at the correct 3–4/week fi
 
 - Redefined social content strategy, 2 platforms to 4 in 3 months, saving $132K
   annually in agency costs.
-- Executive thought leadership program lifted engagement metrics 80% within 6 months.
+- Built an executive thought-leadership program that lifted engagement 80% within 6 months.
 - Mentored a team of writers producing customer stories for a technical audience.
 - Handled content resourcing needs across all internal teams.
 
