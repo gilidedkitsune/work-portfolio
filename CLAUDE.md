@@ -344,6 +344,10 @@ Four themes for LinkedIn and long-form. Everything maps to one:
   though I'm not steeped in finance culture. Not the most exciting role, but
   program-building is what I want to do.
 - **Chainguard** — Executive Communications and Content Manager.
+- **Cato Networks** — Director, Content Strategy. Remote, confirmed via Glassdoor.
+  Strong match on AI-driven discovery (GEO/AEO) and flagship research programs; gap
+  on team-building (role reads as influence-without-authority, not people management)
+  and no direct cybersecurity/networking background. Resume and cover letter sent.
 
 **Watching**
 - Deepgram — Head of Editorial Content (the benchmark: editorial-led, CEO/CMO-adjacent)
@@ -354,6 +358,10 @@ Four themes for LinkedIn and long-form. Everything maps to one:
 **Passed**
 - **Cloudinary** — Director, Content Strategy. JD matched well. Glassdoor flagged
   leadership churn, no clear brand identity, constant plan changes, short-notice RTO.
+- **Datadog** — Principal, Brand Editorial. Strong match on content-strategy ownership
+  and AI-tooling positioning, but hybrid in NYC (not remote) and posted salary band
+  ($153K–$204K) mostly under the $200K floor. Two hard screen-outs, killed before
+  tailoring.
 
 ---
 
