@@ -204,7 +204,7 @@ revising retroactively. Anything drafted from here forward uses six-plus.
 - Expanded the content team from 1 to 9 writers and content strategists in 9 months;
   created the editorial calendar that scaled with it.
 - Developed and scaled a full-funnel content program translating product marketing
-  positioning into narratives for multiple audiences.
+  positioning into narratives for technical and executive audiences.
 - Built 4 new SEO-optimized, pain-point-focused content BOMs, recovering a 22% YoY web
   traffic deficit.
 - Created content strategy infrastructure improving workflow and audience targeting
