@@ -8,29 +8,10 @@ them, and a "-" just pastes as a literal dash.
 
 ## About
 
-I'm a Director-level content and communications leader who builds the systems that
-let technical companies say something worth reading, consistently: editorial
-infrastructure, AI tooling, measurement, and the teams that run on all three.
-
-Most content leaders can do editorial craft or pipeline attribution. I've run both.
-At Mendix, I took the content team from 1 to 9 in nine months and built the editorial
-calendar, brand voice, and full-funnel program it still runs on. I spent the next
-three years turning that infrastructure into a five-agency global PR operation and a
-$10M-pipeline research campaign.
-
-At Bolt.new, I'm doing the same work in an AI-native company. I built the AI tooling
-most job descriptions expect candidates to have used, not built, including a
-Claude-linked copy desk and a custom editorial calendar. I also run GEO/AEO strategy
-day to day: in the last month alone, that work grew our own-domain AI citations from
-786 to 1,809 and held the #1 spot for AI-answer visibility in our category.
-
-I'm comfortable across both ends of a content organization: the editorial judgment
-that makes a piece worth reading, and the systems and metrics that prove it
-mattered. I write for developers, engineering managers, and executives without
-flattening the technical depth either audience needs.
-
-If you're building a content or communications function that needs both halves of
-that, I'd like to talk.
+I build the content, programs, and teams that turn product messaging and positioning
+into a story tailored to my target audience. That story has to resonate at every
+stage of the funnel, from a developer's first kick at the tires to an executive
+signing on the dotted line.
 
 ---
 
