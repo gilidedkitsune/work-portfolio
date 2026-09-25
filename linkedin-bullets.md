@@ -39,8 +39,10 @@ got cut there to fit one page) but is restored here at the correct 3–4/week fi
   DACH, and Singapore, none of them reporting to me, holding every market to the
   same editorial bar.
 - Drove earned media to 60% of tier-1 coverage, a 40% YoY increase.
-- Aligned content and PR strategy with marketing leadership and company KPIs, and
-  optimized a $1M annual budget toward the highest-impact programs.
+- Unified content and PR messaging into one consistent story across customer-facing
+  content and earned media, connecting the funnel from first press mention to
+  purchase decision.
+- Optimized a $1M annual budget toward the highest-impact programs.
 
 ---
 
@@ -52,7 +54,9 @@ got cut there to fit one page) but is restored here at the correct 3–4/week fi
   annually in agency costs.
 - Built an executive thought-leadership program that lifted engagement 80% within 6 months.
 - Mentored a team of writers producing customer stories for a technical audience.
-- Handled content resourcing needs across all internal teams.
+- Managed marketing content and comms requests company-wide, prioritizing and
+  resourcing work for field marketing, demand gen campaigns, executive bylines, and
+  product.
 
 ---
 
