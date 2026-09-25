@@ -189,7 +189,7 @@ six-plus years and measures total Mendix tenure, a different claim.
 - Mentored a team of writers producing customer stories for a technical audience.
 - Handled content resourcing needs across all internal teams.
 
-**Manager, Content Marketing** *(Sept 2020 – Nov 2022)*
+**Manager, Content Marketing** *(May 2020 – Nov 2022)*
 - Expanded the content team from 1 to 9 writers and content strategists in 9 months;
   created the editorial calendar that scaled with it.
 - Developed and scaled a full-funnel content program translating product marketing
@@ -199,7 +199,7 @@ six-plus years and measures total Mendix tenure, a different claim.
 - Created content strategy infrastructure improving workflow and audience targeting
   from ideation through publication.
 
-**Copywriter** *(Sept 2019 – Sept 2020)*
+**Copywriter** *(Sept 2019 – April 2020)*
 - Established the Mendix brand voice and editorial guidelines across blogs, ebooks,
   white papers, guides, webinars, video, events, email, and digital.
 - Reviewed content performance data and built a process for asset management and review.
