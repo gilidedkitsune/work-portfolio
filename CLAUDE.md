@@ -115,7 +115,7 @@ generic "Hello," greeting works for named contacts and role inboxes alike:
 > Hello,
 >
 > I'm a Director-level content and communications leader at Bolt.new. I started here
-> after five-plus years scaling the Mendix content org from the ground up. I've worked
+> after six-plus years scaling the Mendix content org from the ground up. I've worked
 > with recruiters to land my last three jobs, and I want to be in your pipeline. Three
 > things I'd point to:
 > - I took Mendix's content team from 1 to 9 in nine months and built the editorial
@@ -134,9 +134,15 @@ generic "Hello," greeting works for named contacts and role inboxes alike:
 >
 > Resume attached.
 
-The "five-plus years scaling the org" figure counts from the Sept 2020 Manager
-promotion (when team-building actually started), not the Sept 2019 hire date — that's
-six-plus years and measures total Mendix tenure, a different claim.
+The "six-plus years scaling the org" figure counts from the May 2020 Manager
+promotion (when team-building actually started). Total Mendix tenure from the Sept
+2019 hire date is also six-plus years now — the two anchors sit only 7 months apart,
+so this no longer needs a separate caveat the way it did when the promotion was
+pinned to Sept 2020.
+
+The four recruiter letters sent before this correction (Method Recruiting, MarketPro,
+Talentfoot, Ikon Search) went out with "five-plus years" — already sent, not worth
+revising retroactively. Anything drafted from here forward uses six-plus.
 
 ---
 
