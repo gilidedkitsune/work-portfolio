@@ -41,3 +41,44 @@ got cut there to fit one page) but is restored here at the correct 3–4/week fi
   increase.
 - Aligned content and PR strategy with marketing leadership and company KPIs, and
   optimized a $1M annual budget toward the highest-impact programs.
+
+---
+
+## Mendix — Senior Manager, Content Marketing
+
+*Nov 2022 – Jul 2023*
+
+- Redefined social content strategy, 2 platforms to 4 in 3 months, saving $132K
+  annually in agency costs.
+- Executive thought leadership program lifted engagement metrics 80% within 6 months.
+- Mentored a team of writers producing customer stories for a technical audience.
+- Handled content resourcing needs across all internal teams.
+
+---
+
+## Mendix — Manager, Content Marketing
+
+*May 2020 – Nov 2022 (LinkedIn currently shows Sep 2020 — needs correcting on the
+platform to match the verified May 2020 start date)*
+
+- Expanded the content team from 1 to 9 writers and content strategists in 9 months;
+  created the editorial calendar that scaled with it.
+- Developed and scaled a full-funnel content program translating product marketing
+  positioning into narratives for multiple audiences.
+- Built 4 new SEO-optimized, pain-point-focused content BOMs, recovering a 22% YoY
+  web traffic deficit.
+- Created content strategy infrastructure improving workflow and audience targeting
+  from ideation through publication.
+
+---
+
+## Mendix — Copywriter
+
+*Sep 2019 – Apr 2020 (LinkedIn currently shows an end date of Sep 2020 — needs
+correcting on the platform to match the verified April 2020 end date)*
+
+- Established the Mendix brand voice and editorial guidelines across blogs, ebooks,
+  white papers, guides, webinars, video, events, email, and digital.
+- Reviewed content performance data and built a process for asset management and
+  review.
+- Created a cross-functional content program driving business through demand gen.
