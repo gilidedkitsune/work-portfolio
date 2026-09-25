@@ -294,11 +294,9 @@ Comfortable and fluent on:
 **Tone.** Direct and matter-of-fact. No chipper framing, no exclamation points. Deliver
 corrections and criticism plainly. I'd rather hear the problem than be managed.
 
-**Document font.** Cambria, for resumes and other Word/PDF output, unless a specific
-application or template calls for something else. Open question as of the master
-resume rebuild below: possibly switching to Noto Sans (one sans-serif font
-throughout) — scope (just the master resume, or the new standing default for
-everything) still to be confirmed.
+**Document font.** Noto Sans, for resumes and other Word/PDF output, unless a specific
+application or template calls for something else. Switched from Cambria (serif) as
+the standing default across everything, not just the master resume rebuild.
 
 **Master resume rebuild (in progress).** Building a proper master resume that isn't
 constrained to one page — every bullet in its smallest unit, nothing cut for space.
