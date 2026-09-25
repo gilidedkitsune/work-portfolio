@@ -186,14 +186,19 @@ revising retroactively. Anything drafted from here forward uses six-plus.
 - Optimized a $1M annual budget, reallocating toward high-impact initiatives.
 - Planned and executed an integrated campaign built on an original global survey in 4
   months; coverage up 75% over previous surveys within 3 weeks; $10M influenced pipeline.
-- Aligned content and PR metrics to marketing goals and company KPIs.
+- Unified content and PR messaging into one consistent story across customer-facing
+  content and earned media, connecting the funnel from first press mention to
+  purchase decision.
 
 **Senior Manager, Content Marketing** *(Nov 2022 – July 2023)*
 - Redefined social content strategy, 2 platforms to 4 in 3 months, saving $132K
   annually in agency costs.
-- Executive thought leadership program lifted engagement metrics 80% within 6 months.
+- Built an executive thought-leadership program that lifted engagement 80% within 6
+  months.
 - Mentored a team of writers producing customer stories for a technical audience.
-- Handled content resourcing needs across all internal teams.
+- Managed marketing content and comms requests company-wide, prioritizing and
+  resourcing work for field marketing, demand gen campaigns, executive bylines, and
+  product.
 
 **Manager, Content Marketing** *(May 2020 – Nov 2022)*
 - Expanded the content team from 1 to 9 writers and content strategists in 9 months;
