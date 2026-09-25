@@ -77,8 +77,8 @@ platform to match the verified May 2020 start date)*
   created the editorial calendar that scaled with it.
 • Developed and scaled a full-funnel content program translating product marketing
   positioning into narratives for multiple audiences.
-• Built 4 new SEO-optimized, pain-point-focused content BOMs, recovering a 22% YoY
-  web traffic deficit.
+• Built 4 new SEO-optimized, pain-point-focused content bills of materials,
+  recovering a 22% YoY web traffic deficit.
 • Created content strategy infrastructure improving workflow and audience targeting
   from ideation through publication.
 
