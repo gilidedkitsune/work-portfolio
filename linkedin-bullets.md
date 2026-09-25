@@ -8,7 +8,7 @@ them, and a "-" just pastes as a literal dash.
 
 ## About
 
-I build the content, programs, and teams that turn product messaging and positioning
+I build the content programs and teams that turn product messaging and positioning
 into a story tailored to my target audience. That story has to resonate at every
 stage of the funnel, from a developer's first kick at the tires to an executive
 signing on the dotted line.
