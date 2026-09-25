@@ -362,6 +362,11 @@ Four themes for LinkedIn and long-form. Everything maps to one:
   and AI-tooling positioning, but hybrid in NYC (not remote) and posted salary band
   ($153K–$204K) mostly under the $200K floor. Two hard screen-outs, killed before
   tailoring.
+- **Twin Health** — Creative Director of Copy. Best mandate match of the three: real
+  direct reports, remote, comp ($190K–$205K) clears the floor. Killed on Glassdoor:
+  3 rounds of layoffs in 18 months, reviews describing a fear-based culture. Also
+  lacked the regulated-industry (healthcare/clinical review) experience the JD
+  specifically required. Killed before tailoring.
 
 ---
 
