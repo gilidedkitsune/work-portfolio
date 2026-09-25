@@ -32,9 +32,10 @@ resume, which cuts things for space that a public profile shouldn't).
 • Built and rolled out a company-wide AI tooling suite for research, writing, and
   editorial review, plus a measurement framework connecting content and PR
   performance to business metrics.
-• Established a new PR program from the ground up: defined the target audience,
-  mapped the media universe, and expanded the spokesperson bench from 1 to 6,
-  extending earned coverage beyond the US into the UK.
+• Established a new PR program from the ground up: defined the target audience and
+  mapped the media universe.
+• Expanded the spokesperson bench from 1 to 6 and extended earned coverage beyond
+  the US into the UK.
 • Set content strategy across B2B and B2C messaging and built a customer story
   pipeline from original customer research.
 • Launched a new blog and increased publication cadence from 1–2 posts per month to
@@ -76,7 +77,7 @@ platform to match the verified May 2020 start date)*
 • Expanded the content team from 1 to 9 writers and content strategists in 9 months;
   created the editorial calendar that scaled with it.
 • Developed and scaled a full-funnel content program translating product marketing
-  positioning into narratives for multiple audiences.
+  positioning into narratives for technical and executive audiences.
 • Built 4 new SEO-optimized, pain-point-focused content bills of materials,
   recovering a 22% YoY web traffic deficit.
 • Created content strategy infrastructure improving workflow and audience targeting
