@@ -78,16 +78,20 @@ needs explained — the six-month stint and the editorial/demand-gen straddle �
 anyone reads the document. A cold application makes me overcome both in a screen where
 nobody is advocating. I interview well, so getting into the room is most of the battle.
 
-**Firms to contact:**
+**Firms — status:**
 - **Method Recruiting** — performance and content marketing roles for venture-backed
   startups and high-growth marketing teams. Consultative, aligns hires to funnel goals
-  and collaboration style. Closest match to my profile.
+  and collaboration style. Closest match to my profile. Contacted.
 - **MarketPro** — marketing-only executive search, 26+ years, SaaS specialization,
-  executive-level placements. Better fit for the enterprise-facing direction.
-- *Also worth knowing:* Talentfoot (B2B/DTC digital marketing leadership, SaaS-heavy),
-  Ikon Search (boutique, explicitly recruits Directors of Content Marketing).
+  executive-level placements. Better fit for the enterprise-facing direction. Contacted.
+- Talentfoot (B2B/DTC digital marketing leadership, SaaS-heavy) — Contacted.
+- Ikon Search (boutique, explicitly recruits Directors of Content Marketing) — Contacted.
 - *Skip for now:* Creative Circle, Aquent — strong networks, but weighted toward
-  contract and IC-level creative work.
+  contract and IC-level creative work. Not contacted.
+
+All four contacted firms got outreach before the "six-plus years" correction — their
+letters read "five-plus." Not worth revising retroactively; anything drafted from here
+forward uses six-plus.
 
 **How I approach them:**
 - Ask for an intro call, not a job. "Nothing open right now" is a fine outcome — the
@@ -136,13 +140,9 @@ generic "Hello," greeting works for named contacts and role inboxes alike:
 
 The "six-plus years scaling the org" figure counts from the May 2020 Manager
 promotion (when team-building actually started). Total Mendix tenure from the Sept
-2019 hire date is also six-plus years now — the two anchors sit only 7 months apart,
+2019 hire date is also six-plus years now — the two anchors sit only 8 months apart,
 so this no longer needs a separate caveat the way it did when the promotion was
 pinned to Sept 2020.
-
-The four recruiter letters sent before this correction (Method Recruiting, MarketPro,
-Talentfoot, Ikon Search) went out with "five-plus years" — already sent, not worth
-revising retroactively. Anything drafted from here forward uses six-plus.
 
 ---
 
@@ -310,10 +310,11 @@ corrections and criticism plainly. I'd rather hear the problem than be managed.
 application or template calls for something else. Switched from Cambria (serif) as
 the standing default across everything, not just the master resume rebuild.
 
-**Master resume rebuild (in progress).** Building a proper master resume that isn't
-constrained to one page — every bullet in its smallest unit, nothing cut for space.
-The Cato Networks resume and other tailored versions still cut from this; the master
-itself should hold everything.
+**Master resume.** Built — not constrained to one page, every bullet in its smallest
+unit, nothing cut for space. Lives as Taylor Master Resume (.docx/.pdf), Noto Sans.
+Tailored versions (Cato Networks and others) cut from this; the master itself holds
+everything and gets synced whenever a title, date, or wording changes elsewhere in
+this file.
 
 **Resume tailoring.** I keep a master resume with every bullet in its smallest useful
 unit, then cut per application. Never merge bullets in the master. When tailoring:
