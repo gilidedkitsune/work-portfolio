@@ -324,6 +324,10 @@ unit, then cut per application. Never merge bullets in the master. When tailorin
   recovery, GEO/AEO dashboard.
 - Never claim anything I didn't do. If a JD asks for something I lack, say so rather
   than stretching a bullet to cover it.
+- Not one-page-constrained. Readability beats page count. Two pages is fine as long
+  as everything from Mendix Copywriter up — the most recent, most relevant six years —
+  fits cleanly on page one; older roles (Iron Mountain and earlier) can trail to page
+  two. Don't shrink font or cut good bullets just to force a one-page fit.
 
 **Screening a role.** Before I invest in tailoring, check: layoff trackers
 (layoffs.fyi, TrueUp), Glassdoor filtered to the last 12 months, content team tenure
