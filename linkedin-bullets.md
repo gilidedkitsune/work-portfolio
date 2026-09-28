@@ -47,10 +47,11 @@ resume, which cuts things for space that a public profile shouldn't).
 
 ### Mendix, a Siemens Business — Director of Content and Public Relations
 
-*Company field on LinkedIn: "Mendix, a Siemens Business." Acquired 2018, before my
-Sept 2019 start, so this is accurate for the whole tenure — but LinkedIn groups
-consecutive positions at one company under a single header, so it only needs to be
-entered once; the other three Mendix roles below inherit it automatically.*
+*The company field on LinkedIn only links to an actual Company Page, and there's no
+separate "Mendix, a Siemens Business" page to select — just Mendix. Selecting Mendix
+is correct as-is: its own LinkedIn page already discloses the Siemens relationship,
+and the resume carries the explicit "a Siemens Business" phrasing. No action needed
+on the company field itself.*
 
 • Owned Mendix's flagship research and thought-leadership program: an integrated
   campaign anchored on an original global survey, planned and executed in 4 months.
