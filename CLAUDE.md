@@ -177,7 +177,7 @@ pinned to Sept 2020.
 - Launched a new blog.
 - Increased publication cadence from 1–2 posts/month to 3–4/week.
 
-### Mendix — Sept 2019 – Feb 2026 · Remote
+### Mendix, a Siemens Business — Sept 2019 – Feb 2026 · Remote
 
 **Director of Content and Public Relations** *(July 2023 – Feb 2026)*
 - Data-driven PR program focused on value over volume, spanning 5 agencies across the
@@ -330,6 +330,12 @@ unit, then cut per application. Never merge bullets in the master. When tailorin
   Mendix Copywriter and earlier (Iron Mountain, Internet Brands) can trail to page two.
   Don't shrink font or cut good bullets just to force a one-page fit — force an actual
   page break before Mendix Copywriter rather than letting content creep and cramp.
+- Mendix was a Siemens business for the entire tenure (acquired 2018, before my Sept
+  2019 start), so "Mendix, a Siemens Business" is accurate on every Mendix role, not
+  just the most recent one. Don't repeat the tag on every role line though — tag it
+  once, on the top/most-recent Mendix entry in a document, and let the rest just say
+  "Mendix." Matches how LinkedIn displays grouped positions under one company anyway.
+  Resumes already sent (Cato Networks) don't get revised retroactively.
 
 **Screening a role.** Before I invest in tailoring, check: layoff trackers
 (layoffs.fyi, TrueUp), Glassdoor filtered to the last 12 months, content team tenure

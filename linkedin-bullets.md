@@ -45,7 +45,12 @@ resume, which cuts things for space that a public profile shouldn't).
 • Launched a new blog and increased publication cadence from 1–2 posts per month to
   3–4 per week.
 
-### Mendix — Director of Content and Public Relations
+### Mendix, a Siemens Business — Director of Content and Public Relations
+
+*Company field on LinkedIn: "Mendix, a Siemens Business." Acquired 2018, before my
+Sept 2019 start, so this is accurate for the whole tenure — but LinkedIn groups
+consecutive positions at one company under a single header, so it only needs to be
+entered once; the other three Mendix roles below inherit it automatically.*
 
 • Owned Mendix's flagship research and thought-leadership program: an integrated
   campaign anchored on an original global survey, planned and executed in 4 months.
