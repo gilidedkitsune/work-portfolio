@@ -365,6 +365,13 @@ Four themes for LinkedIn and long-form. Everything maps to one:
 ## Pipeline
 
 **In progress**
+- **Agility Robotics** — Director, Head of Editorial & Content. Remote, hybrid-optional
+  from Salem OR/Pittsburgh PA/Fremont CA. $171K–$268K, clears the floor. Strong match:
+  editorial-led mandate, humanoid robotics is a genuinely interesting category, SPAC
+  close creates a real investor-facing content need. Cover letter built around a
+  5-point website critique (voice for Digit, a blog, formalized Executive Perspectives,
+  a customer-deployment-story gap, investor-readiness) instead of restating the resume.
+  Cover letter drafted and built as docx/PDF; resume tailoring not yet started.
 - **NeuGroup** — Director, Content (Intelligence). Good fit on program-building even
   though I'm not steeped in finance culture. Not the most exciting role, but
   program-building is what I want to do.
