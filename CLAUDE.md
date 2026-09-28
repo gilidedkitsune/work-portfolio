@@ -179,7 +179,7 @@ revising retroactively. Anything drafted from here forward uses six-plus.
 
 ### Mendix — Sept 2019 – Feb 2026 · Remote
 
-**Director of Content Marketing and Public Relations** *(July 2023 – Feb 2026)*
+**Director of Content and Public Relations** *(July 2023 – Feb 2026)*
 - Data-driven PR program focused on value over volume, spanning 5 agencies across the
   US, UK, Benelux, DACH, and Singapore.
 - Drove earned media to 60% of total coverage in tier-1 publications, a 40% YoY increase.
@@ -190,7 +190,7 @@ revising retroactively. Anything drafted from here forward uses six-plus.
   content and earned media, connecting the funnel from first press mention to
   purchase decision.
 
-**Senior Manager, Content Marketing** *(Nov 2022 – July 2023)*
+**Senior Manager, Content Services** *(Nov 2022 – July 2023)*
 - Redefined social content strategy, 2 platforms to 4 in 3 months, saving $132K
   annually in agency costs.
 - Built an executive thought-leadership program that lifted engagement 80% within 6
@@ -216,7 +216,7 @@ revising retroactively. Anything drafted from here forward uses six-plus.
 - Reviewed content performance data and built a process for asset management and review.
 - Created a cross-functional content program driving business through demand gen.
 
-### Iron Mountain — Marketing Copywriter
+### Iron Mountain — Copywriter
 *Sept 2016 – Aug 2019 · Boston, MA*
 - Built a thought leadership microsite from concept through launch.
 - Balanced content and campaign demands across multiple product lines and geographies.
@@ -235,8 +235,8 @@ revising retroactively. Anything drafted from here forward uses six-plus.
   individual private clients.
 - Designed and built new websites for clients.
 
-### Internet Brands — Content Editor & Manager, Retail Marketing
-*2009 – 2014 · Remote*
+### Internet Brands — Content Manager & Copywriter
+*Jul 2009 – Jul 2014 · Remote*
 - Managed a team of 5–8 writers across multiple retail web properties.
 - Trained writers on best practices for distinct brand voices across a portfolio of
   consumer brands.
@@ -274,6 +274,13 @@ into Mendix (Sep 2019 – Feb 2026, no gap), into Bolt.new — each transition c
 cleanly. Continuous work history since 2009. Frame the freelance stretch as a deliberate
 choice if asked about it, not an explanation. The short Bolt.new stint reads as a
 correction, not a pattern.
+
+Actual career start is earlier: Editorial Assistant at Dana-Farber Cancer Institute
+(Sep 2005 – Jun 2008) and Administrative Assistant to the Dean of Academic Affairs at
+Tufts University (Jun 2008 – Jul 2009), both listed on LinkedIn but deliberately left
+off the resume and master record — doesn't add signal for a Director-level content
+role, and it's there for anyone who wants the fuller history. "20 years of experience"
+is fair to say if it comes up; the resume's story starts at Internet Brands in 2009.
 
 ---
 

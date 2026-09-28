@@ -13,6 +13,10 @@ into a story tailored to my target audience. That story has to resonate at every
 stage of the funnel, from a developer's first kick at the tires to an executive
 signing on the dotted line.
 
+I'm really good at telling stories, running teams, and fixing what isn't working.
+
+Also, decidedly pro Oxford comma.
+
 ---
 
 ## Experience
@@ -41,7 +45,7 @@ resume, which cuts things for space that a public profile shouldn't).
 • Launched a new blog and increased publication cadence from 1–2 posts per month to
   3–4 per week.
 
-### Mendix — Director of Content Marketing and Public Relations
+### Mendix — Director of Content and Public Relations
 
 • Owned Mendix's flagship research and thought-leadership program: an integrated
   campaign anchored on an original global survey, planned and executed in 4 months.
@@ -56,7 +60,7 @@ resume, which cuts things for space that a public profile shouldn't).
   purchase decision.
 • Optimized a $1M annual budget toward the highest-impact programs.
 
-### Mendix — Senior Manager, Content Marketing
+### Mendix — Senior Manager, Content Services
 
 *Nov 2022 – Jul 2023*
 
@@ -94,7 +98,7 @@ correcting on the platform to match the verified April 2020 end date)*
   review.
 • Created a cross-functional content program driving business through demand gen.
 
-### Iron Mountain — Marketing Copywriter
+### Iron Mountain — Copywriter
 
 *Sep 2016 – Aug 2019 · Boston, MA*
 
@@ -123,9 +127,9 @@ correcting on the platform to match the verified April 2020 end date)*
 • Developed and executed marketing campaigns to drive membership growth and promote
   gym services.
 
-### Internet Brands — Content Editor & Manager, Retail Marketing
+### Internet Brands — Content Manager & Copywriter
 
-*2009 – 2014 · Remote*
+*Jul 2009 – Jul 2014 · Remote*
 
 • Managed a team of 5–8 writers across multiple retail web properties.
 • Trained writers on best practices for distinct brand voices across a portfolio of
