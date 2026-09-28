@@ -127,7 +127,7 @@ correcting on the platform to match the verified April 2020 end date)*
 • Developed and executed marketing campaigns to drive membership growth and promote
   gym services.
 
-### Internet Brands — Content Manager & Copywriter
+### Internet Brands — Content Editor & Manager, Retail Marketing
 
 *Jul 2009 – Jul 2014 · Remote*
 

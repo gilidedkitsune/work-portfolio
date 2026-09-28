@@ -235,7 +235,7 @@ revising retroactively. Anything drafted from here forward uses six-plus.
   individual private clients.
 - Designed and built new websites for clients.
 
-### Internet Brands — Content Manager & Copywriter
+### Internet Brands — Content Editor & Manager, Retail Marketing
 *Jul 2009 – Jul 2014 · Remote*
 - Managed a team of 5–8 writers across multiple retail web properties.
 - Trained writers on best practices for distinct brand voices across a portfolio of
