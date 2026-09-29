@@ -383,7 +383,29 @@ Four themes for LinkedIn and long-form. Everything maps to one:
   close creates a real investor-facing content need. Cover letter built around a
   5-point website critique (voice for Digit, a blog, formalized Executive Perspectives,
   a customer-deployment-story gap, investor-readiness) instead of restating the resume.
-  Cover letter drafted and built as docx/PDF; resume tailoring not yet started.
+  Cover letter and tailored resume both drafted and built as docx/PDF (Mendix, a
+  Siemens Business tagged on the top entry). Also drafting a LinkedIn DM to Dan Diez,
+  Chief Business Officer (marketing likely rolls up through him; no CMO on the exec
+  team) — built around his own blog post's thesis (nobody in the category is making
+  safety-around-people a public story yet) rather than the cover letter's website
+  critique, so the two don't overlap. Opens with a deliberately weird, true personal
+  anecdote (a panther escaping a circus cage) as proof-of-human; the safety/containment
+  echo with the pitch is intentional, not an oversight. Final text:
+
+  > Once, I saw a panther escape from its cage at a "circus" in a high school gym (a
+  > little assurance I'm not a bot).
+  >
+  > I applied for the Editorial & Content role and have spent the past week deep in
+  > Agility's content and positioning. Agility has a lot of stories to tell. And almost
+  > nobody in this category is making safety-around-people a public story yet. It's a
+  > big opportunity for cohesive storytelling through content, PR, and thought
+  > leadership before a competitor tries to stake a bold claim on safety.
+  >
+  > Happy to talk more about that (or the panther thing).
+  >
+  > -Taylor
+
+  Not yet sent.
 - **NeuGroup** — Director, Content (Intelligence). Good fit on program-building even
   though I'm not steeped in finance culture. Not the most exciting role, but
   program-building is what I want to do.
