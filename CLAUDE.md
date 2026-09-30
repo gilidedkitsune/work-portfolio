@@ -433,6 +433,15 @@ Four themes for LinkedIn and long-form. Everything maps to one:
   3 rounds of layoffs in 18 months, reviews describing a fear-based culture. Also
   lacked the regulated-industry (healthcare/clinical review) experience the JD
   specifically required. Killed before tailoring.
+- **Robert Half** — Director, Content Marketing. $176K–$230K, data-driven track.
+  4 of 7 criteria solid (strategy ownership, program-building, team-building,
+  cross-functional), but thought leadership is explicitly walled off to a separate
+  Communications team — the exact half of my wedge this role wouldn't let me use —
+  and the audience (hiring managers, HR/procurement, job seekers) isn't technical or
+  executive. Remote status unconfirmed. Recurring layoffs hitting marketing and
+  product specifically, including a reported 10% cut touching directors as recently
+  as March 2026 — a build-up/tear-down pattern in the function I'd be joining, not
+  a one-off. Deprioritized before tailoring.
 
 ---
 
