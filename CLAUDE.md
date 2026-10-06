@@ -376,21 +376,30 @@ Four themes for LinkedIn and long-form. Everything maps to one:
 
 ## Pipeline
 
-**In progress**
+Kept in sync with the "Job Search Tracker" artifact — same four buckets (Applied,
+Queued to apply, Watching, Passed). Update both whenever either changes.
+
+**Applied**
+- **Deepgram** — Head of Editorial Content. Applied Sep 2, 2026. The benchmark role:
+  editorial-led, CEO/CMO-adjacent.
+- **Deloitte** — Firm Enterprise Solutions Director, Content Strategy and Editorial.
+  Applied Sep 2, 2026.
+- **Oyster** — Content Marketing Lead. Applied Sep 2, 2026. Screening-question answers
+  drafted.
+- **ZeroFox** — Director, Content & Digital Experience. $175K–$190K (below the floor;
+  already applied, not revisited). Applied Sep 23, 2026.
 - **Agility Robotics** — Director, Head of Editorial & Content. Remote, hybrid-optional
   from Salem OR/Pittsburgh PA/Fremont CA. $171K–$268K, clears the floor. Strong match:
   editorial-led mandate, humanoid robotics is a genuinely interesting category, SPAC
   close creates a real investor-facing content need. Cover letter built around a
   5-point website critique (voice for Digit, a blog, formalized Executive Perspectives,
-  a customer-deployment-story gap, investor-readiness) instead of restating the resume.
-  Cover letter and tailored resume both drafted and built as docx/PDF (Mendix, a
-  Siemens Business tagged on the top entry). Also drafting a LinkedIn DM to Dan Diez,
-  Chief Business Officer (marketing likely rolls up through him; no CMO on the exec
-  team) — built around his own blog post's thesis (nobody in the category is making
-  safety-around-people a public story yet) rather than the cover letter's website
-  critique, so the two don't overlap. Opens with a deliberately weird, true personal
-  anecdote (a panther escaping a circus cage) as proof-of-human; the safety/containment
-  echo with the pitch is intentional, not an oversight. Final text:
+  a customer-story-program pitch, investor-readiness) instead of restating the resume.
+  Applied. Also sent a LinkedIn DM to Dan Diez, Chief Business Officer (marketing
+  likely rolls up through him; no CMO on the exec team) — built on his own blog post's
+  thesis (nobody in the category is making safety-around-people a public story yet)
+  rather than the cover letter's website critique, so the two don't overlap. Opens with
+  a deliberately weird, true personal anecdote (a panther escaping a circus cage) as
+  proof-of-human; the safety/containment echo with the pitch is intentional. Final text:
 
   > Once, I saw a panther escape from its cage at a "circus" in a high school gym (a
   > little assurance I'm not a bot).
@@ -404,19 +413,30 @@ Four themes for LinkedIn and long-form. Everything maps to one:
   > Happy to talk more about that (or the panther thing).
   >
   > -Taylor
-
-  Not yet sent.
-- **NeuGroup** — Director, Content (Intelligence). Good fit on program-building even
-  though I'm not steeped in finance culture. Not the most exciting role, but
-  program-building is what I want to do.
-- **Chainguard** — Executive Communications and Content Manager.
 - **Cato Networks** — Director, Content Strategy. Remote, confirmed via Glassdoor.
   Strong match on AI-driven discovery (GEO/AEO) and flagship research programs; gap
   on team-building (role reads as influence-without-authority, not people management)
   and no direct cybersecurity/networking background. Resume and cover letter sent.
 
+**Queued to apply**
+- **Vitally** — Director of Editorial & Content Marketing. $200K–$240K. Strongest
+  overall match screened yet: explicit thought-leadership and original-research
+  mandate, technical B2B audience, no reporting-line conflict, no layoffs found,
+  funding healthy though no round since Series B (Feb 2023). One open question — the
+  JD never mentions a team, worth asking about directly in the interview. Resume and
+  cover letter not yet built — up next.
+- **NeuGroup** — Director, Content (Intelligence). Good fit on program-building even
+  though I'm not steeped in finance culture. Not the most exciting role, but
+  program-building is what I want to do.
+- **Chainguard** — Executive Communications and Content Manager.
+- **Intellum** — Audience & Content Director. Band not posted. IC role, not a manager
+  role — JD explicitly wants a "senior individual contributor" who "personally writes
+  the core of it," contractors scale production, no direct reports. Strongest keyword
+  match of any role screened (AEO/GEO, AI-native content ops) but fails the
+  people-management criterion. Deprioritize or skip per the "manager role, not IC"
+  rule, unless reconsidered.
+
 **Watching**
-- Deepgram — Head of Editorial Content (the benchmark: editorial-led, CEO/CMO-adjacent)
 - Mozilla — Head of Editorial + Platforms
 - Canonical — Head of Content
 - 6sense — Director, Organic Marketing (verify still open)
@@ -442,6 +462,21 @@ Four themes for LinkedIn and long-form. Everything maps to one:
   product specifically, including a reported 10% cut touching directors as recently
   as March 2026 — a build-up/tear-down pattern in the function I'd be joining, not
   a one-off. Deprioritized before tailoring.
+- **Bizee** — Director of Content. Remote, Houston-based company (formerly Incfile).
+  Owns content strategy on paper, but Bizee has had a Head of Content (Amy Cosper,
+  former Entrepreneur Magazine EIC) since December 2023, and at least one other
+  director-level content role there reports into her — this one likely does too,
+  meaning "owns strategy" would mean executing her vision, not setting my own.
+  Comparable Bizee director roles (SEO, Creative) both land well under the $200K
+  floor. Skipped before confirming the reporting line.
+- **Hercules** — Head of Content. hercules.app, an AI app-builder (a16z-backed, tiny
+  team, ex-Fig founders). Strong in-office preference in SF, remote only for
+  "exceptional candidates" willing to travel regularly — a structural conflict with
+  remote-only. No thought leadership in the mandate. Explicitly expects ~50+ articles
+  a month from the function, the opposite of "building programs, not filling a
+  calendar." Requires managing 15+ people as a stated requirement, well above my
+  proven ceiling of 9. Salary band ($100K–$300K, "variable based on location") too
+  wide and location-contingent to trust. Passed.
 
 ---
 
