@@ -455,11 +455,14 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   3. Using your past experience, describe a problem statement you contributed to
      solving. What was your role, and how did it create an impact?
 
-  Compensation field uses India-market LPA brackets (Lakhs Per Annum, ₹100K
-  increments — e.g. "5–10 LPA" ≈ $6K–$12K USD), nowhere near a $200K US salary.
-  Confirms the INR-benefits concern from screening rather than resolving it — check
-  whether the form has a way to indicate US-based/USD before assuming the highest
-  bracket covers it.
+  **Comp field confirmed a problem, not just a flag.** The dropdown tops out at
+  "70+ LPA" — roughly $80K–$84K USD, less than half the $200K floor and below even
+  ZeroFox's lowest band. Combined with the India-denominated benefits (₹10 lakh
+  health coverage, ₹35,000 stipend), this req's hiring infrastructure reads as built
+  around India-based comp, not the US-market band the comparable Sales/AE postings
+  suggested. Worth deciding whether to still apply (resume only, low effort either
+  way) with comp expectations stated plainly in the recruiter screen, or deprioritize
+  given the real signal that $200K may not be attainable here.
 - **Workweek** — Director of Narrative & Brand. Austin-based B2B media/creator
   platform (HR, healthcare, marketing, ecom, fintech networks). Fully remote, CT
   timezone-overlap required — a non-issue from Eastern time. 5 of 7 solid: real
