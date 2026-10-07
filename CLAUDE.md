@@ -489,6 +489,28 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   calendar." Requires managing 15+ people as a stated requirement, well above my
   proven ceiling of 9. Salary band ($100K–$300K, "variable based on location") too
   wide and location-contingent to trust. Passed.
+- **Darkroom / Shadow** — senior content leader, NYC growth agency + its AI commerce
+  platform. Reports to a VP of Marketing who explicitly "sets direction and makes
+  the calls" — fails strategy-ownership outright. No team-management language
+  anywhere (briefs designers/specialists and external creators, no direct reports) —
+  same IC-in-senior-clothing pattern as Intellum. Hybrid NYC, not remote. "Marketing
+  Ops owns the calendar... you make the content that fills all of it" — close to the
+  literal opposite of "building programs, not filling a calendar." Lists "never
+  sourced or briefed a creator yourself" as a hard disqualifier; my creator-economy
+  experience doesn't clearly clear that bar. No salary posted. Glassdoor flags
+  "constantly changing" leadership direction and a pattern of replacing US
+  staff/contractors with low-cost offshore hires. Passed.
+- **Tenable** — Director of Content Marketing. $163K–$217,666.67. Otherwise the
+  strongest technical-audience match screened this session: CISO-focused Exposure
+  Management Leadership Council (a flagship research/community program, same shape
+  as the Mendix global survey), explicit GEO/AEO fluency requirement that maps
+  directly onto the Bolt.new citation-growth story, real team leadership, deeply
+  matrixed cross-functional scope (Corp Comms, Research, PMM, Revenue Marketing,
+  Legal, Sales). Confirmed hybrid in Columbia, MD — an unrealistic commute with
+  kids at home, so passed on location alone despite 6 of 7 criteria being strong.
+  Cybersecurity background listed as "ideal" not required (same soft gap as Cato
+  Networks) and the salary band's midpoint sits under the floor, for reference if a
+  similar role ever comes up fully remote.
 
 ---
 
