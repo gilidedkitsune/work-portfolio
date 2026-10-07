@@ -435,6 +435,18 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   match of any role screened (AEO/GEO, AI-native content ops) but fails the
   people-management criterion. Deprioritize or skip per the "manager role, not IC"
   rule, unless reconsidered.
+- **Sprinto** — Director, Content + Branding. 100% remote, B2B security/compliance
+  SaaS (SOC 2, ISO 27001, GDPR, etc.). Salary not posted for this role, but
+  comparable Sprinto US-remote senior roles (Enterprise Sales Director $300K–$360K,
+  Enterprise AE $200K–$280K) suggest a real US-market band likely to clear the floor
+  — confirm early. 7 of 7 criteria solid, the strongest clean sweep of anything
+  screened: explicit non-calendar language ("building a brand, not filling a
+  calendar"), explicit 3+ years team-leadership requirement, no cybersecurity
+  background required ("editorial judgment and commercial instinct" prioritized over
+  domain experience). No layoffs, growing headcount, $31.8M raised (Series B, Accel
+  lead, April 2024), actively hiring. One flag: a Glassdoor review from a remote US
+  employee says no equity and no 401(k) for US-based staff — ask directly. Resume and
+  cover letter not yet built.
 
 **Watching**
 - Mozilla — Head of Editorial + Platforms
