@@ -425,6 +425,8 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   funding healthy though no round since Series B (Feb 2023). One open question — the
   JD never mentions a team, worth asking about directly in the interview. Resume and
   cover letter not yet built — up next.
+
+  **Application reqs:** Resume only, no cover letter.
 - **NeuGroup** — Director, Content (Intelligence). Good fit on program-building even
   though I'm not steeped in finance culture. Not the most exciting role, but
   program-building is what I want to do.
@@ -452,6 +454,13 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   decent but uneven (3.6–4.1 across snapshots, small sample): flags on unclear
   direction and weak career-growth ratings. Salary not posted anywhere — confirm
   early. Resume and cover letter not yet built.
+
+  **Application reqs:** Resume and cover letter, plus two screening questions and
+  3 PDFs of past work with 1–2 sentences each on what I'd change about each piece:
+  1. "What's one thing you killed? Think: a campaign, a design, a post, or a piece
+     of copy. Why did you stop it before it shipped?"
+  2. "An honest note on how you use AI today, including one thing it does well for
+     you and one thing you still will not hand over."
 - **Chartbeat Inc.** — Director of Content Marketing (Chartbeat, Tubular Labs,
   Lineup Systems, FatTail — all four portfolio brands). 7 of 7 criteria solid, on
   par with Sprinto: real strategy ownership reporting to the CMO, thought leadership
@@ -466,6 +475,8 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   $200K floor with no overlap — the cleanest total floor miss of anything screened.
   Applying anyway: open to negotiating toward ~$190K, a $10K cut I could absorb
   given how strong the mandate is otherwise. Resume and cover letter not yet built.
+
+  **Application reqs:** Resume and cover letter.
 - **Alpaca** — Head of Content & Media. Brokerage/investing infrastructure API
   company, $400M raised (Portage, Spark Capital, Y Combinator, Peak XV among others),
   $52M Series C in 2025. The single best content-mandate match of anything screened:
@@ -480,6 +491,8 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   co-founders described as not being "people leaders" — worth asking about directly,
   not a reason to pass. Salary not posted ("Competitive Salary & Stock Options") —
   confirm early. Resume and cover letter not yet built.
+
+  **Application reqs:** Resume and cover letter.
 
 **Watching**
 - Mozilla — Head of Editorial + Platforms
