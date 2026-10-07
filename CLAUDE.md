@@ -478,6 +478,20 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   $200K floor with no overlap — the cleanest total floor miss of anything screened.
   Applying anyway: open to negotiating toward ~$190K, a $10K cut I could absorb
   given how strong the mandate is otherwise. Resume and cover letter not yet built.
+- **Alpaca** — Head of Content & Media. Brokerage/investing infrastructure API
+  company, $400M raised (Portage, Spark Capital, Y Combinator, Peak XV among others),
+  $52M Series C in 2025. The single best content-mandate match of anything screened:
+  "AI-first content operating system" and "content flywheel" language reads almost
+  like a direct description of my own positioning statement; explicit podcast +
+  executive thought-leadership build-out; explicit team-building; developer-
+  infrastructure audience ("most reputable voice in developer infrastructure for
+  investing") — exactly the target profile. Confirmed fully remote, 20+ countries.
+  Company health is mixed, not alarming: no confirmed dated layoff event, but
+  unverified Blind posts reference cuts in 2025 and Glassdoor (3.6 overall, 68%
+  recommend) flags a "chaotic environment, constant changing priorities" and
+  co-founders described as not being "people leaders" — worth asking about directly,
+  not a reason to pass. Salary not posted ("Competitive Salary & Stock Options") —
+  confirm early. Resume and cover letter not yet built.
 
 **Watching**
 - Mozilla — Head of Editorial + Platforms
