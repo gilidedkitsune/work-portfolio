@@ -447,6 +447,23 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   lead, April 2024), actively hiring. One flag: a Glassdoor review from a remote US
   employee says no equity and no 401(k) for US-based staff — ask directly. Resume and
   cover letter not yet built.
+- **Workweek** — Director of Narrative & Brand. Austin-based B2B media/creator
+  platform (HR, healthcare, marketing, ecom, fintech networks). Fully remote, CT
+  timezone-overlap required — a non-issue from Eastern time. 5 of 7 solid: real
+  CEO-adjacent brand/narrative ownership ("architect a 12-month brand vision with
+  our CEO"), explicit team leadership ("player-coach," oversees social/creative
+  teams), strong cross-functional scope, program-building language. Thought
+  leadership is a partial match — brand/narrative authority across five practitioner
+  communities, not the research-report/executive-ghostwriting shape of Vitally or
+  Sprinto. Audience/company type is the real departure: B2B media platform, not
+  tech/dev-tools/AI, and the audience is cross-industry practitioners rather than
+  developers or technical executives. No layoffs found; healthy and recent funding
+  ($17M Series B, Next Coast Ventures, Aug 2026, $36.5M total) — but that round
+  specifically funds a pivot toward a creator newsletter platform, so ask how this
+  role's scope (Workweek's own 5 flagship networks) relates to that shift. Glassdoor
+  decent but uneven (3.6–4.1 across snapshots, small sample): flags on unclear
+  direction and weak career-growth ratings. Salary not posted anywhere — confirm
+  early. Resume and cover letter not yet built.
 
 **Watching**
 - Mozilla — Head of Editorial + Platforms
