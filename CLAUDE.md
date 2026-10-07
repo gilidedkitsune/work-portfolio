@@ -528,6 +528,17 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   Cybersecurity background listed as "ideal" not required (same soft gap as Cato
   Networks) and the salary band's midpoint sits under the floor, for reference if a
   similar role ever comes up fully remote.
+- **Tinuiti** — Senior Director, Integrated Strategy & Storytelling (e.l.f. Beauty
+  account). Fully remote, but a different category of job entirely: single-client
+  agency account strategy, not in-house content leadership. No team-management
+  language anywhere — IC-in-senior-clothing, same pattern as Intellum and Darkroom.
+  "Thought leadership" here means internal strategic decks for the client's
+  executives, not public market authority. Audience is consumer beauty/CPG via
+  TikTok Shop — about as far from the technical/dev-tools target as anything
+  screened. No salary posted. Glassdoor describes quarterly layoff-and-restructure
+  cycles as routine, with reviews from Oct 2025 through Aug 2026 confirming it's
+  ongoing — a worse version of the pattern that killed Twin Health and Robert Half.
+  Passed without much debate.
 
 ---
 
