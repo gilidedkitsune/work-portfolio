@@ -435,34 +435,6 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   match of any role screened (AEO/GEO, AI-native content ops) but fails the
   people-management criterion. Deprioritize or skip per the "manager role, not IC"
   rule, unless reconsidered.
-- **Sprinto** — Director, Content + Branding. 100% remote, B2B security/compliance
-  SaaS (SOC 2, ISO 27001, GDPR, etc.). Salary not posted for this role, but
-  comparable Sprinto US-remote senior roles (Enterprise Sales Director $300K–$360K,
-  Enterprise AE $200K–$280K) suggest a real US-market band likely to clear the floor
-  — confirm early. 7 of 7 criteria solid, the strongest clean sweep of anything
-  screened: explicit non-calendar language ("building a brand, not filling a
-  calendar"), explicit 3+ years team-leadership requirement, no cybersecurity
-  background required ("editorial judgment and commercial instinct" prioritized over
-  domain experience). No layoffs, growing headcount, $31.8M raised (Series B, Accel
-  lead, April 2024), actively hiring. One flag: a Glassdoor review from a remote US
-  employee says no equity and no 401(k) for US-based staff — ask directly. Resume and
-  cover letter not yet built.
-
-  **Application reqs:** Resume only — no cover letter for this one. Three screening
-  questions:
-  1. Briefly describe the focus of your current or last organization?
-  2. What are your top 3 KPIs from your last two roles?
-  3. Using your past experience, describe a problem statement you contributed to
-     solving. What was your role, and how did it create an impact?
-
-  **Comp field confirmed a problem, not just a flag.** The dropdown tops out at
-  "70+ LPA" — roughly $80K–$84K USD, less than half the $200K floor and below even
-  ZeroFox's lowest band. Combined with the India-denominated benefits (₹10 lakh
-  health coverage, ₹35,000 stipend), this req's hiring infrastructure reads as built
-  around India-based comp, not the US-market band the comparable Sales/AE postings
-  suggested. Worth deciding whether to still apply (resume only, low effort either
-  way) with comp expectations stated plainly in the recruiter screen, or deprioritize
-  given the real signal that $200K may not be attainable here.
 - **Workweek** — Director of Narrative & Brand. Austin-based B2B media/creator
   platform (HR, healthcare, marketing, ecom, fintech networks). Fully remote, CT
   timezone-overlap required — a non-issue from Eastern time. 5 of 7 solid: real
@@ -513,6 +485,11 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
 - Mozilla — Head of Editorial + Platforms
 - Canonical — Head of Content
 - 6sense — Director, Organic Marketing (verify still open)
+- **Sprinto** — Director, Content + Branding. 7 of 7 criteria, genuinely the strongest
+  clean sweep screened on mandate alone — but the application's own comp field tops
+  out at "70+ LPA" (~$80K–$84K USD), confirmed well under the floor. Good fit, not
+  worth it at that number. Revisit only if a real US-market band surfaces (e.g.
+  through a recruiter) — not worth the application effort as posted.
 
 **Passed**
 - **Cloudinary** — Director, Content Strategy. JD matched well. Glassdoor flagged
