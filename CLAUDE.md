@@ -464,6 +464,20 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   decent but uneven (3.6–4.1 across snapshots, small sample): flags on unclear
   direction and weak career-growth ratings. Salary not posted anywhere — confirm
   early. Resume and cover letter not yet built.
+- **Chartbeat Inc.** — Director of Content Marketing (Chartbeat, Tubular Labs,
+  Lineup Systems, FatTail — all four portfolio brands). 7 of 7 criteria solid, on
+  par with Sprinto: real strategy ownership reporting to the CMO, thought leadership
+  built on proprietary web/social/revenue datasets (an excellent match — almost a
+  direct description of the Mendix global survey and the Bolt.new GEO/AEO citation
+  work), explicit team leadership, strong cross-functional scope, confirmed fully
+  remote via Glassdoor, executive/publisher-industry audience. No layoffs found;
+  strong Glassdoor (4.1 overall, 4.4 work-life balance, 4.5 culture/values); active
+  growth via PE-backed acquisition (FatTail, Mar 2025). One soft flag: a reviewer
+  cited an uninspiring product roadmap and uncertainty about the PE ownership's
+  long-term plans. The real issue: posted salary is $170K–$180K, entirely under the
+  $200K floor with no overlap — the cleanest total floor miss of anything screened.
+  Applying anyway: open to negotiating toward ~$190K, a $10K cut I could absorb
+  given how strong the mandate is otherwise. Resume and cover letter not yet built.
 
 **Watching**
 - Mozilla — Head of Editorial + Platforms
