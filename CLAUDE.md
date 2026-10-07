@@ -447,6 +447,19 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   lead, April 2024), actively hiring. One flag: a Glassdoor review from a remote US
   employee says no equity and no 401(k) for US-based staff — ask directly. Resume and
   cover letter not yet built.
+
+  **Application reqs:** Resume only — no cover letter for this one. Three screening
+  questions:
+  1. Briefly describe the focus of your current or last organization?
+  2. What are your top 3 KPIs from your last two roles?
+  3. Using your past experience, describe a problem statement you contributed to
+     solving. What was your role, and how did it create an impact?
+
+  Compensation field uses India-market LPA brackets (Lakhs Per Annum, ₹100K
+  increments — e.g. "5–10 LPA" ≈ $6K–$12K USD), nowhere near a $200K US salary.
+  Confirms the INR-benefits concern from screening rather than resolving it — check
+  whether the form has a way to indicate US-based/USD before assuming the highest
+  bracket covers it.
 - **Workweek** — Director of Narrative & Brand. Austin-based B2B media/creator
   platform (HR, healthcare, marketing, ecom, fintech networks). Fully remote, CT
   timezone-overlap required — a non-issue from Eastern time. 5 of 7 solid: real
