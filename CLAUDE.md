@@ -168,8 +168,8 @@ pinned to Sept 2020.
 - Conducted original customer research to define and separate previously blurred
   audience segments.
 - Built a customer story pipeline sourced from B2C customers.
-- Personally write and edit ongoing blog posts, customer stories, and web copy —
-  stays hands-on with execution while setting the strategy the rest of the team
+- Personally write and edit ongoing blog posts, customer stories, and web copy,
+  staying hands-on with execution while setting the strategy the rest of the team
   builds against.
 - Led foundational brand work spanning mission and vision.
 - Defined tone of voice and editorial guidelines.
@@ -252,9 +252,9 @@ runs on. In a market where every JD asks for AI fluency and most candidates can 
 claim they use it, having built and distributed the stack is the differentiator.
 
 **Positioning statement:**
-> A content leader who builds the systems — editorial infrastructure, AI tooling,
-> measurement, and teams — that let technical companies say something worth reading,
-> consistently.
+> A content leader who builds the systems that let technical companies say something
+> worth reading, consistently: editorial infrastructure, AI tooling, measurement, and
+> teams.
 
 **Avoid:** competing on "storytelling." Every candidate says it.
 
