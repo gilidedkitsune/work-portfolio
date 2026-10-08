@@ -474,7 +474,11 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   long-term plans. The real issue: posted salary is $170K–$180K, entirely under the
   $200K floor with no overlap — the cleanest total floor miss of anything screened.
   Applying anyway: open to negotiating toward ~$190K, a $10K cut I could absorb
-  given how strong the mandate is otherwise. Resume and cover letter not yet built.
+  given how strong the mandate is otherwise. Resume leads with the Mendix global
+  survey/pipeline story and the Bolt.new GEO/AEO citation work. Cover letter proposes
+  a flagship research program unifying what Chartbeat, Tubular Labs, Lineup Systems,
+  and FatTail each know separately into one content-to-revenue story, instead of
+  restating the resume.
 
   **Application reqs:** Resume and cover letter.
 - **Alpaca** — Head of Content & Media. Brokerage/investing infrastructure API
