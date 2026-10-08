@@ -423,8 +423,9 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   overall match screened yet: explicit thought-leadership and original-research
   mandate, technical B2B audience, no reporting-line conflict, no layoffs found,
   funding healthy though no round since Series B (Feb 2023). One open question — the
-  JD never mentions a team, worth asking about directly in the interview. Resume and
-  cover letter not yet built — up next.
+  JD never mentions a team, worth asking about directly in the interview. Resume
+  built, leading with the global-survey/flagship-research-program bullet and the
+  executive thought-leadership program bullet.
 
   **Application reqs:** Resume only, no cover letter.
 - **NeuGroup** — Director, Content (Intelligence). Good fit on program-building even
