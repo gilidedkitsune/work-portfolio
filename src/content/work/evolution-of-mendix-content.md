@@ -1,5 +1,5 @@
 ---
-title: "The Evolution of Mendix Content"
+title: "The evolution of Mendix content"
 client: "Mendix"
 role: "Director, Content & PR"
 summary: "A highlight reel of what I've accomplished in Content at Mendix."

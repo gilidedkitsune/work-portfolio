@@ -1,5 +1,5 @@
 ---
-title: "Marketing Campaigns and Member Communications"
+title: "Marketing campaigns and member communications"
 client: "Benefitness Health Club"
 role: "Marketing Manager"
 summary: "Promotional campaigns, seasonal offers, and member communications for a Brookline, MA women's health club — from print collateral to a dues-increase letter that held onto goodwill."

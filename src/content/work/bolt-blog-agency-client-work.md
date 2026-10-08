@@ -1,5 +1,5 @@
 ---
-title: "How Small Agencies Take On More Client Work Without Hiring"
+title: "How small agencies take on more client work without hiring"
 client: "Bolt.new"
 role: "Content and Communications Director"
 summary: "The average US ad agency shrank from 10.2 employees to 5.5 between 2015 and 2024. This piece argues small shops grow by changing how they build, not by adding a sixth person."

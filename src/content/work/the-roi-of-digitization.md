@@ -1,5 +1,5 @@
 ---
-title: "The ROI of Digitization"
+title: "The ROI of digitization"
 client: "IronMountain.com"
 role: "Marketing Copywriter"
 summary: "Interactive infographic about digital transformation."

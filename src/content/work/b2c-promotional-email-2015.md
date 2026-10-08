@@ -1,5 +1,5 @@
 ---
-title: "B2C Promotional Email"
+title: "B2C promotional email"
 client: "Email"
 role: "Freelance Writer"
 summary: "B2C promotional email."

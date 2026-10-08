@@ -1,5 +1,5 @@
 ---
-title: "B2C Announcement Email"
+title: "B2C announcement email"
 client: "Email"
 role: "Freelance Writer"
 summary: "Announcement email sent through Constant Contact."

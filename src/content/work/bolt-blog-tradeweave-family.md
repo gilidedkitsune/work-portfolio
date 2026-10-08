@@ -1,5 +1,5 @@
 ---
-title: "An Enterprising Family Saves Transportation Clients from a $70K SaaS Subscription"
+title: "An enterprising family saves transportation clients from a $70K SaaS subscription"
 client: "Bolt.new"
 role: "Content and Communications Director"
 summary: "Customer story on Paul, a trucking-software consultant, who built TradeWeave with his two sons after years of watching clients pay $70,000 a year for outdated EDI tools. Eight carriers now run on it, at about half the price."

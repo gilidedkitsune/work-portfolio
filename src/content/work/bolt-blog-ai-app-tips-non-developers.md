@@ -1,5 +1,5 @@
 ---
-title: "7 AI App-Building Tips for Non-Developers (ghostwritten)"
+title: "7 AI app-building tips for non-developers (ghostwritten)"
 client: "Bolt.new"
 role: "Content and Communications Director"
 summary: "Ghostwritten for a Bolt.new spokesperson — seven practical tips for people without a coding background who are building their first apps with AI."

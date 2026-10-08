@@ -1,5 +1,5 @@
 ---
-title: "Workplace Transformation: An Evolution of the Office Environment"
+title: "Workplace transformation: an evolution of the office environment"
 client: "IronMountain.com"
 role: "Marketing Copywriter"
 summary: "Infographic featuring the highlights of a research study conducted with IDG."

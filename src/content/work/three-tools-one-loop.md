@@ -1,5 +1,5 @@
 ---
-title: "Three Tools, One Loop"
+title: "Three tools, one loop"
 client: "Bolt.new"
 role: "Content and Communications Director"
 summary: "Designed, wrote, and built a content calendar, a writing agent, and an editing surface that run one editorial loop end to end. 417 items across 13 projects, three tools, one design system."

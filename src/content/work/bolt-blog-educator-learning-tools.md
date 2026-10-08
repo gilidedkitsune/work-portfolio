@@ -1,5 +1,5 @@
 ---
-title: "How an Educator Built 50+ Learning Tools with Bolt"
+title: "How an educator built 50+ learning tools with Bolt"
 client: "Bolt.new"
 role: "Content and Communications Director"
 summary: "Customer story on Jonathan Davis, a disability-education tutor who taught himself to build on Bolt and created Empowered Applications — over 50 learning tools replacing patchwork software with tools designed for the work."

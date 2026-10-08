@@ -1,5 +1,5 @@
 ---
-title: "Bolt.new Comes to Microsoft Azure and Microsoft 365"
+title: "Bolt.new comes to Microsoft Azure and Microsoft 365"
 client: "Bolt.new"
 role: "Content and Communications Director"
 summary: "Announcement post covering Bolt.new's partnership bringing the platform to Microsoft Azure and Microsoft 365."

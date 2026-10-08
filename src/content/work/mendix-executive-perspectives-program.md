@@ -1,5 +1,5 @@
 ---
-title: "Mendix — Executive Perspectives Thought Leadership Program"
+title: "Mendix — Executive Perspectives thought leadership program"
 client: "Mendix"
 role: "Director, Content & PR"
 summary: "Check out the latest and greatest from the minds behind Mendix."

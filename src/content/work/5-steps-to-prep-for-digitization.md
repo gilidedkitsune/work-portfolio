@@ -1,5 +1,5 @@
 ---
-title: "5 Steps to Prep for Digitization"
+title: "5 steps to prep for digitization"
 client: "IronMountain.com"
 role: "Marketing Copywriter"
 summary: "A checklist to get organizations prepared to move forward on their digital transformation journey."

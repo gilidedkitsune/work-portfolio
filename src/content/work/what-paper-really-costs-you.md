@@ -1,5 +1,5 @@
 ---
-title: "What Paper Really Costs You"
+title: "What paper really costs you"
 client: "IronMountain.com"
 role: "Marketing Copywriter"
 summary: "Infographic outlining the full cost of paper."

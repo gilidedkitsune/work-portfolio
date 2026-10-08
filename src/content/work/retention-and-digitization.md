@@ -1,5 +1,5 @@
 ---
-title: "Retention and Digitization"
+title: "Retention and digitization"
 client: "IronMountain.com"
 role: "Marketing Copywriter"
 summary: "A two-pager addressing how retention and digitization work best together."

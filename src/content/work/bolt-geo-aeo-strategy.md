@@ -1,5 +1,5 @@
 ---
-title: "Growing AI-Answer Visibility Through a GEO/AEO Content Strategy"
+title: "Growing AI-answer visibility through a GEO/AEO content strategy"
 client: "Bolt.new"
 role: "Content and Communications Director"
 summary: "Diagnosed AI-answer visibility and citation gaps, then built and executed a GEO/AEO content strategy that grew own-domain citations from 786 to 1,809 in a month."

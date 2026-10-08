@@ -1,5 +1,5 @@
 ---
-title: "Becoming His Own Everything: Business Orchestration in Four Movements"
+title: "Becoming his own everything: business orchestration in four movements"
 client: "Bolt.new"
 role: "Content and Communications Director"
 summary: "Customer story on Ssebandeke Dullaart, who built payment rails, dashboards, and a full ERP for his four Ugandan businesses on Bolt.new, cutting out the middleman fee on every transaction."

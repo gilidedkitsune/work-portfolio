@@ -1,5 +1,5 @@
 ---
-title: "Dirty Oahu, Far Beyond the Hawaiian Rainbow"
+title: "Dirty Oahu, far beyond the Hawaiian rainbow"
 role: "Personal Writing"
 summary: "Short story about the filthiest Hawaiian vacation of all time."
 date: 2007-03-14

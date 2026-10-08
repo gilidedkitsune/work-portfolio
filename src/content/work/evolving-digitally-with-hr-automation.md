@@ -1,5 +1,5 @@
 ---
-title: "Evolving Digitally with HR Automation"
+title: "Evolving digitally with HR automation"
 client: "IronMountain.com"
 role: "Marketing Copywriter"
 summary: "An anonymous use case about Human Resources evolving into leveraging automated workflows."

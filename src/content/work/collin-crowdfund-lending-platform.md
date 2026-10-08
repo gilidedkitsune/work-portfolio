@@ -1,5 +1,5 @@
 ---
-title: "Collin Crowdfund Delivers a Custom, End-to-End Lending Platform"
+title: "Collin Crowdfund delivers a custom, end-to-end lending platform"
 client: "Mendix"
 role: "Director, Content & PR"
 summary: "A customer story on how Collin Crowdfund built a custom, end-to-end lending platform on Mendix."

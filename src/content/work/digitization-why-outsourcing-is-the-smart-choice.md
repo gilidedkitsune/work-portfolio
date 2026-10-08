@@ -1,5 +1,5 @@
 ---
-title: "Digitization: Why Outsourcing Is the Smart Choice"
+title: "Digitization: why outsourcing is the smart choice"
 client: "IronMountain.com"
 role: "Marketing Copywriter"
 summary: "Digital transformation campaign asset."

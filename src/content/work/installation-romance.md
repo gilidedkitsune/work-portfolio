@@ -1,5 +1,5 @@
 ---
-title: "Installation Romance"
+title: "Installation romance"
 role: "Personal Writing"
 summary: "Final short story submission for MFA."
 date: 2005-08-31

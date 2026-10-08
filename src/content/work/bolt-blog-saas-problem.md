@@ -1,5 +1,5 @@
 ---
-title: "Paying for 100 Features, Using 5: The SaaS Problem (ghostwritten)"
+title: "Paying for 100 features, using 5: the SaaS problem (ghostwritten)"
 client: "Bolt.new"
 role: "Content and Communications Director"
 summary: "Ghostwritten for a Bolt.new spokesperson — on why the average business leaves 36% of its SaaS licenses unused, and how to audit a software stack down to what actually earns its bill."

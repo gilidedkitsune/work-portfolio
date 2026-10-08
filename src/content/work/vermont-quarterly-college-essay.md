@@ -1,5 +1,5 @@
 ---
-title: "Vermont Quarterly College Essay"
+title: "Vermont Quarterly college essay"
 client: "Vermont Quarterly"
 role: "Personal Writing"
 summary: "A college entrance essay, written ten years later."
