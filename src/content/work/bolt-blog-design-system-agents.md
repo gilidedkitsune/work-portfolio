@@ -1,5 +1,5 @@
 ---
-title: "Bolt.new Design System Agents"
+title: "Bolt.new's Design System Agents"
 client: "Bolt.new"
 role: "Content and Communications Director"
 summary: "On Bolt.new's Design System Agents, which build apps from a team's own components and design tokens so prototypes match production."
