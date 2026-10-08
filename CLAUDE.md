@@ -417,17 +417,16 @@ Queued to apply, Watching, Passed). Update both whenever either changes.
   Strong match on AI-driven discovery (GEO/AEO) and flagship research programs; gap
   on team-building (role reads as influence-without-authority, not people management)
   and no direct cybersecurity/networking background. Resume and cover letter sent.
-
-**Queued to apply**
 - **Vitally** — Director of Editorial & Content Marketing. $200K–$240K. Strongest
   overall match screened yet: explicit thought-leadership and original-research
   mandate, technical B2B audience, no reporting-line conflict, no layoffs found,
   funding healthy though no round since Series B (Feb 2023). One open question — the
-  JD never mentions a team, worth asking about directly in the interview. Resume
-  built, leading with the global-survey/flagship-research-program bullet and the
-  executive thought-leadership program bullet.
+  JD never mentions a team, worth asking about directly in the interview. Resume led
+  with the global-survey/flagship-research-program bullet and the executive
+  thought-leadership program bullet. Resume only, no cover letter, per their reqs.
+  Applied Oct 8, 2026.
 
-  **Application reqs:** Resume only, no cover letter.
+**Queued to apply**
 - **NeuGroup** — Director, Content (Intelligence). Good fit on program-building even
   though I'm not steeped in finance culture. Not the most exciting role, but
   program-building is what I want to do.
