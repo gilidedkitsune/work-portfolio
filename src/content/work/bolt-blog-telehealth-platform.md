@@ -5,7 +5,10 @@ role: "Content and Communications Director"
 summary: "Customer story on Martin F., who built NetDoctor — a telehealth marketplace for Argentina — in three months on Bolt.new, after four years of shelved plans and agency quotes he couldn't afford. It now has 90 approved providers."
 date: 2026-08-23
 tags: ["Blog", "Customer Story"]
+externalUrl: "https://bolt.new/blog/netdoctor-telehealth-story"
 featured: false
 draft: false
 ---
 Part of the Bolt.new customer stories series.
+
+[View the piece](https://bolt.new/blog/netdoctor-telehealth-story)
