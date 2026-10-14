@@ -46,6 +46,14 @@ Editorial — at tech, developer tools, or AI companies.
 perspectives. What I screen against is companies that haven't *decided* who they're
 talking to.
 
+**Company scale is open, as of Oct 2026.** Primary target list is still venture-backed
+dev tools/AI/B2B SaaS, but I'm also open to enterprise-scale companies (Fortune 1000,
+large multinationals) — Mendix under Siemens (300,000 employees) gave me real
+enterprise experience: PR across 5 regions, a $1M budget, actual corporate governance
+and process. That credential supports an enterprise track, not just the startup one.
+Screen enterprise-scale roles against the same seven criteria and salary floor; don't
+assume "big company" means a weaker content-strategy mandate.
+
 **Timeline:** 6+ months expected. Looking for a role to grow in for 2–5 years.
 2–4 applications per week, only to roles I'd really want.
 
@@ -86,6 +94,11 @@ nobody is advocating. I interview well, so getting into the room is most of the 
   executive-level placements. Better fit for the enterprise-facing direction. Contacted.
 - Talentfoot (B2B/DTC digital marketing leadership, SaaS-heavy) — Contacted.
 - Ikon Search (boutique, explicitly recruits Directors of Content Marketing) — Contacted.
+- **Cowen Partners** — retained C-suite executive search, clients are Fortune 1000s
+  and $500M+ asset firms. Generalist (CEO/CFO/COO/CMO/CHRO/etc.), not marketing-
+  specialized, and no independent reviews found to vet quality (G2 and SHRM both show
+  zero). Added for the enterprise track opened Oct 2026 — Siemens/Mendix scale
+  experience is a real credential here. Not yet contacted.
 - *Skip for now:* Creative Circle, Aquent — strong networks, but weighted toward
   contract and IC-level creative work. Not contacted.
 
